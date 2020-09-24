@@ -1,0 +1,82 @@
+INFO     01. Stabat Mater dolorosa.ms3 -- Attempting to parse 01. Stabat Mater dolorosa.mscx
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 1 has 2 BarLine-nodes. Used first (other), ignored ['other'].
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 5 has 2 BarLine-nodes. Used first (other), ignored ['other'].
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 10 has 2 BarLine-nodes. Used first (other), ignored ['other'].
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 14 has 2 BarLine-nodes. Used first (other), ignored ['other'].
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 28 has 2 BarLine-nodes. Used first (other), ignored ['other'].
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 39 has 2 BarLine-nodes. Used first (other), ignored ['other'].
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 43 has 2 BarLine-nodes. Used first (other), ignored ['other'].
+WARNING  01. Stabat Mater dolorosa.ms3 -- These values in mc_info[3] are not included in mc_info[1]: mc
+1     other
+2     other
+3     other
+4     other
+5     other
+6     other
+7     other
+8     other
+9     other
+10    other
+11    other
+12    other
+13    other
+14    other
+15    other
+16    other
+17    other
+18    other
+19    other
+20    other
+21    other
+22    other
+23    other
+24    other
+25    other
+26    other
+27    other
+28    other
+29    other
+30    other
+31    other
+32    other
+33    other
+34    other
+35    other
+36    other
+37    other
+38    other
+39    other
+40    other
+41    other
+42    other
+43    other
+44    other
+45    other
+46    other
+47      end
+Name: barline, dtype: object
+WARNING  01. Stabat Mater dolorosa.ms3 -- These values in mc_info[4] are not included in mc_info[1]: mc
+1     other
+39    other
+Name: barline, dtype: object
+WARNING  01. Stabat Mater dolorosa.ms3 -- info and mc_info[1] were not identical before aggregation.
+This means that lower staves contain information that's missing in
+the first staff (as shown in previous warning).
+WARNING  01. Stabat Mater dolorosa.ms3 -- MC 1 contains a <Harmony> tag which includes a <root>. That leads to displaying and parsing errors and should be removed.
+INFO     01. Stabat Mater dolorosa.ms3 -- Done parsing 01. Stabat Mater dolorosa.mscx
+
+WARNING  01. Stabat Mater dolorosa.expand_labels -- The following chords could not be parsed:
+    mc  mn onset     label
+ix                        
+81  22  22   1/2    V9(64)
+84  23  23   1/4  #viio//V
+ERROR    01. Stabat Mater dolorosa.expand_labels -- Are you expanding labels of several pieces in the same DataFrame? In that case, define 'groupby()' parameters.
+ERROR    01. Stabat Mater dolorosa -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "/home/hentsche/corpora/scripts/parallel_parse.py", line 93, in parse
+    expanded = expand_labels(chord_list, column='label', regex=regex, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 416, in __init__
+    df = self.propagate_keys(df, add_bool=True, **key_cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 678, in propagate_keys
+    assert nunique > 0, "No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames."
+AssertionError: No global key specified. It might be that this function is being applied in a wrong groupby and gets rows instead of entire frames.

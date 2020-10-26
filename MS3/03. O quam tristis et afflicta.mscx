@@ -4826,7 +4826,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>ii7</name>
+            <name>V43(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4848,6 +4848,9 @@ e organo</longName>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V43</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -4871,12 +4874,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>ii7(4)</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4920,9 +4917,6 @@ e organo</longName>
             <name>V6</name>
             <offset x="0" y="-5.91806"/>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4932,7 +4926,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>I</name>
+            <name>vi6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6584,7 +6578,7 @@ e organo</longName>
             <placement>below</placement>
             </Dynamic>
           <Harmony>
-            <name>viio6(2)</name>
+            <name>V43(2)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -6613,7 +6607,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>viio6</name>
+            <name>V(43)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6640,10 +6634,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V43</name>
-            <offset x="0" y="-5.89398"/>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -6727,7 +6717,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>i</name>
+            <name>VI6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

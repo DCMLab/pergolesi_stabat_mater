@@ -3,7 +3,6 @@
   <programVersion>3.5.0</programVersion>
   <programRevision>43c5553</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -6578,7 +6577,7 @@ e organo</longName>
             <placement>below</placement>
             </Dynamic>
           <Harmony>
-            <name>V43(2)</name>
+            <name>V43(4)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>

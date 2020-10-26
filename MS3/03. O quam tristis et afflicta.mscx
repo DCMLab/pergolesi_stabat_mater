@@ -6040,7 +6040,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>i6</name>
+            <name>iv6</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6118,7 +6118,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>VI</name>
+            <name>iv7(-1)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

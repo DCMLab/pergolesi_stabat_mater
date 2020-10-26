@@ -43,13 +43,13 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset:x	offset:y	label_type	g
 13	13	1/4	1/4	4/4	3	1	ii65			dcml	g	III		ii65	ii		65				mm7	1	0	-1, 3, 0, 2		2	-1
 13	13	3/8	3/8	4/4	3	1	V	0	-6.23675	dcml	g	III		V	V						M	1	0	1, 5, 2		1	1
 13	13	1/2	1/2	4/4	3	1	I}	-0.145375	-5.98901	dcml	g	III		I	I					}	M	1	0	0, 4, 1		0	0
-14	14	0	0	4/4	3	1	{			dcml	g	III								{		1	0				
+14	14	0	0	4/4	3	1	{			dcml	g	III								{		1	0
 14	14	1/2	1/2	4/4	3	1	i.#viio6			dcml	g	i		#viio6	#vii	o	6				o	1	1	2, -1, 5		5	2
 14	14	3/4	3/4	4/4	3	1	i			dcml	g	i		i	i						m	1	1	0, -3, 1		0	0
 15	15	1/2	1/2	4/4	3	1	viio7/V			dcml	g	i		viio7/V	vii	o	7		V		o7	1	1	6, 3, 0, -3		6	6
 16	16	0	0	4/4	3	1	V[V(64)			dcml	g	i	V	V(64)	V			64			M	1	1	1, 0, -3		1	1
 16	16	1/4	1/4	4/4	3	1	V}			dcml	g	i	V	V	V					}	M	1	1	1, 5, 2		1	1
-16	16	1/2	1/2	4/4	3	1	{			dcml	g	i	V							{		1	1				
+16	16	1/2	1/2	4/4	3	1	{			dcml	g	i	V							{		1	1
 17	17	0	0	4/4	3	1	iv6(2)			dcml	g	i	V	iv6(2)	iv		6	2			m	1	1	-4, 0, 1		-1	-4
 17	17	1/4	1/4	4/4	3	1	IV6			dcml	g	i	V	IV6	IV		6				M	1	1	3, 0, -1		-1	3
 17	17	1/2	1/2	4/4	3	1	V7			dcml	g	i	V	V7	V		7				Mm7	1	1	1, 5, 2, -1		1	1

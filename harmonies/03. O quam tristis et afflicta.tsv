@@ -1,0 +1,84 @@
+mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset:x	offset:y	label_type	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	0	4/4	3	1	.g.i{			dcml	g	i		i	i					{	m	1	1	0, -3, 1		0	0
+1	1	1/2	1/2	4/4	3	1	viio43/V			dcml	g	i		viio43/V	vii	o	43		V		o7	1	1	0, -3, 6, 3		6	0
+1	1	3/4	3/4	4/4	3	1	V6			dcml	g	i		V6	V		6				M	1	1	5, 2, 1		1	5
+2	2	0	0	4/4	3	1	viio7			dcml	g	i		viio7	vii	o	7				o7	1	1	-2, -5, -8, -11		-2	-2
+2	2	1/2	1/2	4/4	3	1	V7			dcml	g	i		V7	V		7				Mm7	1	1	1, 5, 2, -1		1	1
+3	3	0	0	4/4	3	1	i(9#74)			dcml	g	i		i(9#74)	i			9#74			m	1	1	0, -1, 1	2, 5	0	0
+3	3	1/4	1/4	4/4	3	1	i			dcml	g	i		i	i						m	1	1	0, -3, 1		0	0
+4	4	0	0	4/4	3	1	viio7/V			dcml	g	i		viio7/V	vii	o	7		V		o7	1	1	6, 3, 0, -3		6	6
+4	4	1/2	1/2	4/4	3	1	V(64)			dcml	g	i		V(64)	V			64			M	1	1	1, 0, -3		1	1
+4	4	3/4	3/4	4/4	3	1	V}			dcml	g	i		V	V					}	M	1	1	1, 5, 2		1	1
+5	5	0	0	4/4	3	1	III.I{			dcml	g	III		I	I					{	M	1	0	0, 4, 1		0	0
+5	5	1/2	1/2	4/4	3	1	V7			dcml	g	III		V7	V		7				Mm7	1	0	1, 5, 2, -1		1	1
+6	6	0	0	4/4	3	1	I			dcml	g	III		I	I						M	1	0	0, 4, 1		0	0
+6	6	1/4	1/4	4/4	3	1	I6			dcml	g	III		I6	I		6				M	1	0	4, 1, 0		0	4
+6	6	3/8	3/8	4/4	3	1	vii%7/V			dcml	g	III		vii%7/V	vii	%	7		V		%7	1	0	6, 5, 12, 4		6	6
+6	6	1/2	1/2	4/4	3	1	V(64)			dcml	g	III		V(64)	V			64			M	1	0	1, 0, 4		1	1
+6	6	5/8	5/8	4/4	3	1	V}			dcml	g	III		V	V					}	M	1	0	1, 5, 2		1	1
+7	7	0	0	4/4	3	1	ii{			dcml	g	III		ii	ii					{	m	1	0	2, -1, 3		2	2
+7	7	1/4	1/4	4/4	3	1	V7			dcml	g	III		V7	V		7				Mm7	1	0	1, 5, 2, -1		1	1
+7	7	1/2	1/2	4/4	3	1	I			dcml	g	III		I	I						M	1	0	0, 4, 1		0	0
+8	8	0	0	4/4	3	1	ii6			dcml	g	III		ii6	ii		6				m	1	0	-1, 3, 2		2	-1
+8	8	1/2	1/2	4/4	3	1	I			dcml	g	III		I	I						M	1	0	0, 4, 1		0	0
+8	8	3/4	3/4	4/4	3	1	V			dcml	g	III		V	V						M	1	0	1, 5, 2		1	1
+9	9	0	0	4/4	3	1	I}			dcml	g	III		I	I					}	M	1	0	0, 4, 1		0	0
+9	9	1/2	1/2	4/4	3	1	ii{			dcml	g	III		ii	ii					{	m	1	0	2, -1, 3		2	2
+9	9	3/4	3/4	4/4	3	1	V7			dcml	g	III		V7	V		7				Mm7	1	0	1, 5, 2, -1		1	1
+10	10	0	0	4/4	3	1	I			dcml	g	III		I	I						M	1	0	0, 4, 1		0	0
+10	10	1/2	1/2	4/4	3	1	ii6			dcml	g	III		ii6	ii		6				m	1	0	-1, 3, 2		2	-1
+11	11	0	0	4/4	3	1	I			dcml	g	III		I	I						M	1	0	0, 4, 1		0	0
+11	11	1/4	1/4	4/4	3	1	V7			dcml	g	III		V7	V		7				Mm7	1	0	1, 5, 2, -1		1	1
+11	11	1/2	1/2	4/4	3	1	I}{			dcml	g	III		I	I					}{	M	1	0	0, 4, 1		0	0
+11	11	3/4	3/4	4/4	3	1	I6			dcml	g	III		I6	I		6				M	1	0	4, 1, 0		0	4
+12	12	0	0	4/4	3	1	V43(4)			dcml	g	III		V43(4)	V		43	4			Mm7	1	0	2, -1, 1, 0		1	2
+12	12	1/8	1/8	4/4	3	1	V43			dcml	g	III		V43	V		43				Mm7	1	0	2, -1, 1, 5		1	2
+12	12	3/8	3/8	4/4	3	1	V2/V	0	-6.36305	dcml	g	III		V2/V	V		2		V		Mm7	1	0	0, 2, 6, 3		2	0
+12	12	1/2	1/2	4/4	3	1	V6	0	-5.91806	dcml	g	III		V6	V		6				M	1	0	5, 2, 1		1	5
+12	12	5/8	5/8	4/4	3	1	vi6			dcml	g	III		vi6	vi		6				m	1	0	0, 4, 3		3	0
+12	12	3/4	3/4	4/4	3	1	IV6			dcml	g	III		IV6	IV		6				M	1	0	3, 0, -1		-1	3
+12	12	7/8	7/8	4/4	3	1	ii6	0	-6.29737	dcml	g	III		ii6	ii		6				m	1	0	-1, 3, 2		2	-1
+13	13	0	0	4/4	3	1	I6			dcml	g	III		I6	I		6				M	1	0	4, 1, 0		0	4
+13	13	1/8	1/8	4/4	3	1	vi	0	-6.44982	dcml	g	III		vi	vi						m	1	0	3, 0, 4		3	3
+13	13	1/4	1/4	4/4	3	1	ii65			dcml	g	III		ii65	ii		65				mm7	1	0	-1, 3, 0, 2		2	-1
+13	13	3/8	3/8	4/4	3	1	V	0	-6.23675	dcml	g	III		V	V						M	1	0	1, 5, 2		1	1
+13	13	1/2	1/2	4/4	3	1	I}	-0.145375	-5.98901	dcml	g	III		I	I					}	M	1	0	0, 4, 1		0	0
+14	14	0	0	4/4	3	1	{			dcml	g	III								{		1	0				
+14	14	1/2	1/2	4/4	3	1	i.#viio6			dcml	g	i		#viio6	#vii	o	6				o	1	1	2, -1, 5		5	2
+14	14	3/4	3/4	4/4	3	1	i			dcml	g	i		i	i						m	1	1	0, -3, 1		0	0
+15	15	1/2	1/2	4/4	3	1	viio7/V			dcml	g	i		viio7/V	vii	o	7		V		o7	1	1	6, 3, 0, -3		6	6
+16	16	0	0	4/4	3	1	V[V(64)			dcml	g	i	V	V(64)	V			64			M	1	1	1, 0, -3		1	1
+16	16	1/4	1/4	4/4	3	1	V}			dcml	g	i	V	V	V					}	M	1	1	1, 5, 2		1	1
+16	16	1/2	1/2	4/4	3	1	{			dcml	g	i	V							{		1	1				
+17	17	0	0	4/4	3	1	iv6(2)			dcml	g	i	V	iv6(2)	iv		6	2			m	1	1	-4, 0, 1		-1	-4
+17	17	1/4	1/4	4/4	3	1	IV6			dcml	g	i	V	IV6	IV		6				M	1	1	3, 0, -1		-1	3
+17	17	1/2	1/2	4/4	3	1	V7			dcml	g	i	V	V7	V		7				Mm7	1	1	1, 5, 2, -1		1	1
+18	18	1/4	1/4	4/4	3	1	V(64)]			dcml	g	i	V	V(64)	V			64			M	1	1	1, 0, -3		1	1
+18	18	1/2	1/2	4/4	3	1	viio7/V			dcml	g	i		viio7/V	vii	o	7		V		o7	1	1	6, 3, 0, -3		6	6
+19	19	0	0	4/4	3	1	V(64)			dcml	g	i		V(64)	V			64			M	1	1	1, 0, -3		1	1
+19	19	1/8	1/8	4/4	3	1	V}			dcml	g	i		V	V					}	M	1	1	1, 5, 2		1	1
+19	19	1/2	1/2	4/4	3	1	V7{			dcml	g	i		V7	V		7			{	Mm7	1	1	1, 5, 2, -1		1	1
+20	20	0	0	4/4	3	1	i			dcml	g	i		i	i						m	1	1	0, -3, 1		0	0
+20	20	1/2	1/2	4/4	3	1	iv6			dcml	g	i		iv6	iv		6				m	1	1	-4, 0, -1		-1	-4
+21	21	0	0	4/4	3	1	iv7(-1)			dcml	g	i		iv7(-1)	iv		7	-1			mm7	1	1	-1, -4, 0, -3		-1	-1
+21	21	1/4	1/4	4/4	3	1	V7			dcml	g	i		V7	V		7				Mm7	1	1	1, 5, 2, -1		1	1
+21	21	1/2	1/2	4/4	3	1	i}			dcml	g	i		i	i					}	m	1	1	0, -3, 1		0	0
+22	22	0	0	4/4	3	1	V7{			dcml	g	i		V7	V		7			{	Mm7	1	1	1, 5, 2, -1		1	1
+22	22	1/2	1/2	4/4	3	1	i			dcml	g	i		i	i						m	1	1	0, -3, 1		0	0
+23	23	0	0	4/4	3	1	iv6			dcml	g	i		iv6	iv		6				m	1	1	-4, 0, -1		-1	-4
+23	23	1/2	1/2	4/4	3	1	V(64)			dcml	g	i		V(64)	V			64			M	1	1	1, 0, -3		1	1
+23	23	3/4	3/4	4/4	3	1	V			dcml	g	i		V	V						M	1	1	1, 5, 2		1	1
+24	24	0	0	4/4	3	1	i}{			dcml	g	i		i	i					}{	m	1	1	0, -3, 1		0	0
+24	24	1/4	1/4	4/4	3	1	i6			dcml	g	i		i6	i		6				m	1	1	-3, 1, 0		0	-3
+24	24	1/2	1/2	4/4	3	1	V43(2)			dcml	g	i		V43(2)	V		43	2			Mm7	1	1	2, -1, -4, 5		1	2
+24	24	5/8	5/8	4/4	3	1	V(43)			dcml	g	i		V(43)	V			43			M	1	1	1, 0, 2		1	1
+24	24	7/8	7/8	4/4	3	1	viio2/V	-1.59913	-6.03758	dcml	g	i		viio2/V	vii	o	2		V		o7	1	1	-3, 6, 3, 0		6	-3
+25	25	0	0	4/4	3	1	V6			dcml	g	i		V6	V		6				M	1	1	5, 2, 1		1	5
+25	25	1/8	1/8	4/4	3	1	VI6			dcml	g	i		VI6	VI		6				M	1	1	0, -3, -4		-4	0
+25	25	1/4	1/4	4/4	3	1	iv6			dcml	g	i		iv6	iv		6				m	1	1	-4, 0, -1		-1	-4
+25	25	3/8	3/8	4/4	3	1	iio6	0	-5.72932	dcml	g	i		iio6	ii	o	6				o	1	1	-1, -4, 2		2	-1
+25	25	1/2	1/2	4/4	3	1	i6	0.145375	-5.63056	dcml	g	i		i6	i		6				m	1	1	-3, 1, 0		0	-3
+25	25	5/8	5/8	4/4	3	1	iv6	-0.290751	-5.87152	dcml	g	i		iv6	iv		6				m	1	1	-4, 0, -1		-1	-4
+25	25	3/4	3/4	4/4	3	1	iio6	0	-5.47864	dcml	g	i		iio6	ii	o	6				o	1	1	-1, -4, 2		2	-1
+25	25	7/8	7/8	4/4	3	1	V	0.145375	-5.26213	dcml	g	i		V	V						M	1	1	1, 5, 2		1	1
+26	26	0	0	4/4	3	1	i}	-0.290751	-5.40751	dcml	g	i		i	i					}	m	1	1	0, -3, 1		0	0

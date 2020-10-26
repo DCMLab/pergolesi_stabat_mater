@@ -3512,7 +3512,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2/V</name>
+            <name>viio43/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3851,7 +3851,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4143,7 +4143,7 @@ e organo</longName>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
-            <name>#vii%7/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5409,7 +5409,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -5790,7 +5790,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6666,7 +6666,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2/V</name>
+            <name>viio2/V</name>
             <offset x="-1.59913" y="-6.03758"/>
             </Harmony>
           <Chord>

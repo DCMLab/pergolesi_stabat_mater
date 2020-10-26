@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.4.2</programVersion>
-  <programRevision>148e43f</programRevision>
+  <programVersion>3.5.0</programVersion>
+  <programRevision>43c5553</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -252,6 +252,10 @@ e organo</longName>
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
@@ -3474,7 +3478,7 @@ e organo</longName>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <name>.g.i</name>
+            <name>.g.i{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3935,7 +3939,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4005,7 +4009,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>III.I</name>
+            <name>III.I{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4179,7 +4183,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4256,7 +4260,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>ii</name>
+            <name>ii{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4449,7 +4453,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -4513,7 +4517,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>ii</name>
+            <name>ii{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4720,7 +4724,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5173,7 +5177,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             <offset x="-0.145375" y="-5.98901"/>
             </Harmony>
           <Chord>
@@ -5262,6 +5266,9 @@ e organo</longName>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -5525,7 +5532,7 @@ e organo</longName>
             <fractions>-1/4</fractions>
             </location>
           <Harmony>
-            <name>V</name>
+            <name>V}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -5543,6 +5550,9 @@ e organo</longName>
             <velocity>49</velocity>
             <placement>below</placement>
             </Dynamic>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -5838,7 +5848,7 @@ e organo</longName>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               <play>0</play>
               </Articulation>
             <Note>
@@ -5857,7 +5867,7 @@ e organo</longName>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               <play>0</play>
               </Articulation>
             <Note>
@@ -5957,7 +5967,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5984,7 +5994,7 @@ e organo</longName>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
-            <name>V7</name>
+            <name>V7{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -6164,7 +6174,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6292,7 +6302,7 @@ e organo</longName>
             <offset x="-0.493562" y="3.34192"/>
             </Dynamic>
           <Harmony>
-            <name>V7</name>
+            <name>V7{</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -6481,7 +6491,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7004,7 +7014,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             <offset x="-0.290751" y="-5.40751"/>
             </Harmony>
           <Beam>

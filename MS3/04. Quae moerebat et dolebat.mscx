@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.4.2</programVersion>
-  <programRevision>148e43f</programRevision>
+  <programVersion>3.5.2</programVersion>
+  <programRevision>465e7b6</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -19,6 +19,7 @@
       <articulationAnchorOther>2</articulationAnchorOther>
       <hairpinPlacement>0</hairpinPlacement>
       <hairpinPosAbove x="0" y="-1.5"/>
+      <harmonyPlay>0</harmonyPlay>
       <measureNumberInterval>1</measureNumberInterval>
       <hideEmptyStaves>1</hideEmptyStaves>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
@@ -189,6 +190,10 @@ e organo</longName>
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
@@ -3854,7 +3859,7 @@ e organo</longName>
             <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> espr.</i></text>
             </Dynamic>
           <Harmony>
-            <name>.Eb.I</name>
+            <name>.Eb.{I</name>
             <offset x="0.47247" y="-6.12227"/>
             </Harmony>
           <Chord>
@@ -4242,7 +4247,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             <offset x="0.15749" y="-6.75223"/>
             </Harmony>
           <Beam>
@@ -4313,7 +4318,7 @@ e organo</longName>
             <offset x="0" y="5.31617"/>
             </Dynamic>
           <Harmony>
-            <name>I6</name>
+            <name>I6{</name>
             <offset x="0.15749" y="-7.06721"/>
             </Harmony>
           <Beam>
@@ -4478,7 +4483,7 @@ e organo</longName>
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
-            <name>#vii%7/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -4521,7 +4526,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4567,7 +4572,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>IV</name>
+            <name>IV{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5199,7 +5204,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5593,7 +5598,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5641,7 +5646,7 @@ e organo</longName>
             <placement>below</placement>
             </Dynamic>
           <Harmony>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5891,7 +5896,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5942,7 +5947,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6079,7 +6084,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>#vii%7/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1.80973"/>
@@ -6148,7 +6153,7 @@ e organo</longName>
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6204,7 +6209,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>V.I6</name>
+            <name>V.I6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6883,7 +6888,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6936,7 +6941,7 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           <Harmony>
-            <name>IV</name>
+            <name>IV{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -7441,7 +7446,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7863,7 +7868,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -7903,7 +7908,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>v.iv</name>
+            <name>v.iv{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8182,7 +8187,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>i</name>
+            <name>i}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8373,7 +8378,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I.ii\\</name>
+            <name>I.ii}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -8638,7 +8643,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8839,7 +8844,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -8913,7 +8918,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>IV</name>
+            <name>IV{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9394,7 +9399,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9444,7 +9449,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>IV</name>
+            <name>IV{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9943,7 +9948,7 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10339,7 +10344,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I</name>
+            <name>I}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10553,7 +10558,7 @@ e organo</longName>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <play>0</play>
               </Articulation>
             <Note>
@@ -10575,7 +10580,7 @@ e organo</longName>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <play>0</play>
               </Articulation>
             <Note>
@@ -10631,7 +10636,7 @@ e organo</longName>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

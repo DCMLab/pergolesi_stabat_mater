@@ -4,8 +4,8 @@
 ## Vital statistics
 
 |----:|:------------------------------------------------------------------|
-|  10 | Number of pieces in corpus                                        |
-| 522 | Number of measures in corpus                                      |
+|   7 | Number of pieces in corpus                                        |
+| 470 | Number of measures in corpus                                      |
 |   0 | Number of untouched pieces in corpus                              |
 |   0 | Number of untouched measures in corpus                            |
 |   0 | Number of pieces reviewed in the latest version of the standard   |

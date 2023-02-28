@@ -1,0 +1,316 @@
+Warnings encountered during the last execution of ms3 review (v1.2.4)
+=====================================================================
+
+WARNING  ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 47: The missing value in 'voice/BarLine/subtype' was replaced by 'end', present in 'staff' [3].
+WARNING  ms3.Parse.pergolesi_stabat_mater.02 Cujus animam gementem -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 108: The missing value in 'voice/BarLine/subtype' was replaced by 'end', present in 'staff' [2].
+WARNING  ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 103: The missing value in 'voice/BarLine/subtype' was replaced by 'end', present in 'staff' [2].
+WARNING  ms3.Parse.pergolesi_stabat_mater.06 Vidit suum dulcem natum -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 43: The missing value in 'voice/BarLine/subtype' was replaced by 'end', present in 'staff' [2].
+WARNING  ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 1: The missing value in 'vspacerFixed' was replaced by '17', present in 'staff' [3].
+WARNING  ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 9: The missing value in 'vspacerFixed' was replaced by '17', present in 'staff' [3].
+WARNING  ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 94: The missing value in 'voice/BarLine/subtype' was replaced by 'end', present in 'staff' [2].
+DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa -- /usr/local/lib/python3.10/site-packages/ms3/annotations.py (line 382) expand_dcml():
+	Score contains 7 labels that don't (and 166 that do) match the DCML standard:
+	     mc  mn    label harmony_layer
+	63   18  18   {V6/iv             1
+	72   20  20  {V6/III             1
+	82   22  22       {i             1
+	83   22  22   V9(64)             1
+	86   23  23  viio//V             1
+	122  33  33    {i.V6             1
+	154  43  43       {i             1
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 17: ') ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4139) features2tpcs():
+	MC 17: #vii in major context corrected to vii.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5122) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             5a        }{
+	            5a        }{             8a        }{
+	            8a        }{            11a         }
+	           12a         {            17a         }
+	           26a        }{            19a         }
+	           28a        }{            21a         }
+	           40a        }{            23a         }
+	           45a        }{            26a        }{
+	           NaN       NaN            28a        }{
+	           NaN       NaN            32a         }
+	           NaN       NaN            37a         }
+	           NaN       NaN            40a        }{
+	           NaN       NaN            42a         }
+	           NaN       NaN            45a        }{
+	           NaN       NaN            47a         }
+DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat -- /usr/local/lib/python3.10/site-packages/ms3/annotations.py (line 382) expand_dcml():
+	Score contains 1 labels that don't (and 213 that do) match the DCML standard:
+	   mc  mn   label harmony_layer
+	0   1   1  .Eb.{I             1
+DCML_HARMONY_INCOMPLETE_LOCALKEY_COLUMN_WARNING (12,) ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat -- /usr/local/lib/python3.10/site-packages/ms3/expand_dcml.py (line 141) expand_labels():
+	propagate_keys() failed with
+	No global key specified.
+DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat -- /usr/local/lib/python3.10/site-packages/ms3/expand_dcml.py (line 145) expand_labels():
+	propagate_pedal() failed with
+	Local keys must first be propagated using propagate_keys(), no NaNs allowed.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 101: ') ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4139) features2tpcs():
+	MC 101: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 25: ') ms3.Parse.pergolesi_stabat_mater.06 Vidit suum dulcem natum -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4139) features2tpcs():
+	MC 25: #vii in major context corrected to vii.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5122) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {            13a         }
+	           20a         {            19a         }
+	           26a         {            25a         }
+	           32a        }{            32a        }{
+	           40a         {            39a         }
+	           46a         {            45a         }
+	           61a         {            49a         }
+	           66a         {            60a         }
+	           73a         {            65a         }
+	           80a         {            72a         }
+	           NaN       NaN            79a         }
+	           NaN       NaN            85a         }
+	           NaN       NaN            94a         }
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                                                   mc   mn mc_onset      label         chord_tones added_tones  n_colored  n_untouched  count_ratio
+pergolesi_stabat_mater MS3/01. Stabat Mater dolorosa.mscx           4    4      3/8      viio6        (-6, -9, -3)          ()          3            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx           7    7      5/8     viio43   (-9, -12, -3, -6)          ()          4            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          10   10      5/8     viio65   (-6, -9, -12, -3)          ()          5            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          13   13      3/4       III6         (0, -3, -4)          ()          3            1     0.750000
+                       MS3/01. Stabat Mater dolorosa.mscx          15   15      3/8      viio6        (-6, -9, -3)          ()          3            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          16   16      7/8      viio6        (-6, -9, -3)          ()          3            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          23   23        0      i(42)          (1, -2, 0)          ()         13            6     0.684211
+                       MS3/01. Stabat Mater dolorosa.mscx          31   31      7/8      viio6        (-5, -8, -2)          ()          3            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          33   33      1/4        V65       (5, 2, -1, 1)          ()          2            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          33   33      1/2          i          (0, -3, 1)          ()          6            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          33   33      3/4      V7/iv       (0, 4, 1, -2)          ()          4            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          34   34        0         iv         (-1, -4, 0)          ()          5            2     0.714286
+                       MS3/01. Stabat Mater dolorosa.mscx          34   34      1/4     V7/vii      (-1, 3, 0, -3)          ()          4            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          34   34      1/2        vii        (-2, -5, -1)          ()          6            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          34   34      3/4     V7/III     (-2, 2, -1, -4)          ()          4            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          35   35        0        III         (-3, 1, -2)          ()          6            3     0.666667
+                       MS3/01. Stabat Mater dolorosa.mscx          35   35      1/2         VI         (-4, 0, -3)          ()          6            2     0.750000
+                       MS3/01. Stabat Mater dolorosa.mscx          36   36        0        iio         (2, -1, -4)          ()          7            2     0.777778
+                       MS3/01. Stabat Mater dolorosa.mscx          36   36      1/2          V           (1, 5, 2)          ()          8            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          37   37        0     V(v74)           (1, 0, 2)          ()          5            1     0.833333
+                       MS3/01. Stabat Mater dolorosa.mscx          37   37      1/8    viio7/V       (6, 3, 0, -3)          ()         21            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          37   37      1/2        V7}       (1, 5, 2, -1)          ()         19            9     0.678571
+                       MS3/01. Stabat Mater dolorosa.mscx          39   39      1/2          V           (1, 5, 2)          ()          4            2     0.666667
+                       MS3/01. Stabat Mater dolorosa.mscx          39   39      5/8     viio43   (-8, -11, -2, -5)          ()          4            2     0.666667
+                       MS3/01. Stabat Mater dolorosa.mscx          39   39      3/4         i6          (-3, 1, 0)          ()          5            1     0.833333
+                       MS3/01. Stabat Mater dolorosa.mscx          39   39      7/8         iv         (-1, -4, 0)          ()          4            2     0.666667
+                       MS3/01. Stabat Mater dolorosa.mscx          40   40        0      V(64)          (1, 0, -3)          ()          7            2     0.777778
+                       MS3/01. Stabat Mater dolorosa.mscx          40   40      1/4          V           (1, 5, 2)          ()          9            3     0.750000
+                       MS3/01. Stabat Mater dolorosa.mscx          40   40      1/2       VI}{         (-4, 0, -3)          ()          4            2     0.666667
+                       MS3/01. Stabat Mater dolorosa.mscx          40   40      3/4         i6          (-3, 1, 0)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          41   41        0         iv         (-1, -4, 0)          ()          5            1     0.833333
+                       MS3/01. Stabat Mater dolorosa.mscx          41   41      1/4         V+           (1, 5, 9)          ()          7            1     0.875000
+                       MS3/01. Stabat Mater dolorosa.mscx          41   41      1/2         VI         (-4, 0, -3)          ()          7            2     0.777778
+                       MS3/01. Stabat Mater dolorosa.mscx          41   41      3/4         i6          (-3, 1, 0)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          42   42        0         iv         (-1, -4, 0)          ()          5            1     0.833333
+                       MS3/01. Stabat Mater dolorosa.mscx          42   42      1/4         V+           (1, 5, 9)          ()          7            1     0.875000
+                       MS3/01. Stabat Mater dolorosa.mscx          42   42      1/2    VI(^#2)         (-4, 5, -3)          ()          5            1     0.833333
+                       MS3/01. Stabat Mater dolorosa.mscx          42   42      5/8        VI}         (-4, 0, -3)          ()          7            1     0.875000
+                       MS3/01. Stabat Mater dolorosa.mscx          43   43      1/4         i6          (-3, 1, 0)          ()          3            1     0.750000
+                       MS3/01. Stabat Mater dolorosa.mscx          43   43      1/2       ii65       (-1, 3, 0, 2)          ()          4            2     0.666667
+                       MS3/01. Stabat Mater dolorosa.mscx          43   43      3/4       ii43       (3, 0, 2, -1)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          44   44        0      V65/V        (6, 3, 0, 2)          ()          9            1     0.900000
+                       MS3/01. Stabat Mater dolorosa.mscx          44   44      1/2          V           (1, 5, 2)          ()          5            1     0.833333
+                       MS3/01. Stabat Mater dolorosa.mscx          44   44      3/4         i6          (-3, 1, 0)          ()          6            0     1.000000
+                       MS3/01. Stabat Mater dolorosa.mscx          45   45      1/4          V           (1, 5, 2)          ()          7            1     0.875000
+                       MS3/01. Stabat Mater dolorosa.mscx          45   45      1/2        i}{          (0, -3, 1)          ()          8            2     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          45   45      3/4         i6          (-3, 1, 0)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          46   46        0       ii65       (-1, 3, 0, 2)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          46   46      1/4         V+           (1, 5, 9)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          46   46      3/4         i6          (-3, 1, 0)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          47   47        0       ii65       (-1, 3, 0, 2)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          47   47      1/4         V+           (1, 5, 9)          ()          4            1     0.800000
+                       MS3/01. Stabat Mater dolorosa.mscx          47   47      1/2     i(9#7)          (0, -3, 1)      (2, 5)          3            1     0.750000
+                       MS3/01. Stabat Mater dolorosa.mscx          47   47      5/8         i}          (0, -3, 1)          ()          1            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx           4    4        0     viio43   (-8, -11, -2, -5)          ()          4            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx           8    8        0     viio43  (-10, -13, -4, -7)          ()          4            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          13   13      1/8      viio6        (-5, -8, -2)          ()          4            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          21   21      1/8      viio6        (-5, -8, -2)          ()          4            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          31   31        0     viio43   (-8, -11, -2, -5)          ()          5            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          34   34      1/8    i6(+b6)        (-5, -1, -2)      (-13,)          2            1     0.666667
+                       MS3/02. Cujus animam gementem.mscx          35   35        0     viio43  (-10, -13, -4, -7)          ()          5            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          80   80      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          85   85        0   viio6/iv        (-6, -9, -3)          ()         11            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          87   87        0     viio43   (-8, -11, -2, -5)          ()         10            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          97   97      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx          99   99      1/8      viio6        (-5, -8, -2)          ()          2            0     1.000000
+                       MS3/02. Cujus animam gementem.mscx         102  102      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/03. O quam tristis et afflicta.mscx      2    2        0      viio7   (-1, -4, -7, -10)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx        3    3      1/4       V(9)           (1, 5, 2)       (-4,)          1            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx        3    3      3/8          V           (1, 5, 2)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx        4    4        0          I           (0, 4, 1)          ()          7            3     0.700000
+                       MS3/04. Quae moerebat et dolebat.mscx        5    5      3/8         V6           (5, 2, 1)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx        6    6        0         I}           (0, 4, 1)          ()          6            3     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx        7    7        0        I6{           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx        7    7      1/4          I           (0, 4, 1)          ()          2            1     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx        8    8      1/4         V6           (5, 2, 1)          ()          2            1     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx        9    9        0          I           (0, 4, 1)          ()          5            2     0.714286
+                       MS3/04. Quae moerebat et dolebat.mscx       10   10      1/8         V}           (1, 5, 2)          ()          2            1     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       10   10      1/4         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       11   11      1/4      viio6        (-5, -8, -2)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       12   12        0         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       12   12      1/4          I           (0, 4, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       13   13      1/4      viio6        (-5, -8, -2)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       14   14        0         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       14   14      1/4          I           (0, 4, 1)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       15   15        0      viio6        (-5, -8, -2)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       16   16        0       viio        (-2, -5, -8)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       18   18        0       I(4)          (0, -1, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       18   18      1/8          I           (0, 4, 1)          ()          2            1     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       18   18      1/4        ii6          (-1, 3, 2)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       20   20        0        I}{           (0, 4, 1)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       20   20      1/4         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       22   22      1/4         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       24   24        0         I}           (0, 4, 1)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       25   25        0         I{           (0, 4, 1)          ()          9            3     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       27   27      1/4       V(9)           (1, 5, 2)       (-4,)          1            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       27   27      3/8          V           (1, 5, 2)          ()          2            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       28   28        0          I           (0, 4, 1)          ()          9            3     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       29   29      3/8        V65       (5, 2, -1, 1)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       30   30        0         I}           (0, 4, 1)          ()          8            3     0.727273
+                       MS3/04. Quae moerebat et dolebat.mscx       31   31        0        I6{           (4, 1, 0)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       31   31      1/4          I           (0, 4, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       32   32        0         ii          (2, -1, 3)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       33   33        0          I           (0, 4, 1)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       34   34      1/8         V}           (1, 5, 2)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       35   35        0      V.I6{           (4, 1, 0)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       35   35      1/4      V65/V        (6, 3, 0, 2)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       36   36        0       V(4)           (1, 0, 2)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       36   36      1/4          V           (1, 5, 2)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       37   37        0        IV6          (3, 0, -1)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       38   38        0       V(4)           (1, 0, 2)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       39   39        0         IV          (-1, 3, 0)          ()          7            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       39   39      1/4      viio6        (-5, -8, -2)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       40   40        0         I6           (4, 1, 0)          ()          7            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       40   40      1/4          I           (0, 4, 1)          ()          7            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       41   41        0         IV          (-1, 3, 0)          ()          7            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       41   41      1/4     #viio6          (2, -1, 5)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       42   42        0         I6           (4, 1, 0)          ()          7            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       42   42      1/4          I           (0, 4, 1)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       43   43        0         ii          (2, -1, 3)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       43   43      1/4        ii2       (0, 2, -1, 3)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       44   44        0       viio        (-2, -5, -8)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       45   45        0         V7       (1, 5, 2, -1)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       45   45      1/4        V65       (5, 2, -1, 1)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       46   46        0          I           (0, 4, 1)          ()          7            1     0.875000
+                       MS3/04. Quae moerebat et dolebat.mscx       46   46      1/4        ii6          (-1, 3, 2)          ()          6            1     0.857143
+                       MS3/04. Quae moerebat et dolebat.mscx       47   47        0          V           (1, 5, 2)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       47   47      1/4         V7       (1, 5, 2, -1)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       48   48        0         I}           (0, 4, 1)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       48   48      1/4         I6           (4, 1, 0)          ()          3            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       49   49        0        IV{          (-1, 3, 0)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       49   49      1/4      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       50   50        0         I6           (4, 1, 0)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       50   50      1/4          V           (1, 5, 2)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       51   51        0         IV          (-1, 3, 0)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       51   51      1/4      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       52   52        0         I6           (4, 1, 0)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       52   52      1/4          I           (0, 4, 1)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       53   53        0         ii          (2, -1, 3)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       53   53      1/4        ii2       (0, 2, -1, 3)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       54   54        0       viio        (-2, -5, -8)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       55   55        0         V7       (1, 5, 2, -1)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       55   55      1/4        V65       (5, 2, -1, 1)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       56   56        0       I(4)          (0, -1, 1)          ()          3            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       56   56      1/8          I           (0, 4, 1)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       56   56      1/4        ii6          (-1, 3, 2)          ()          7            1     0.875000
+                       MS3/04. Quae moerebat et dolebat.mscx       57   57        0          V           (1, 5, 2)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       57   57      1/4         V7       (1, 5, 2, -1)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       58   58        0        I}{           (0, 4, 1)          ()          9            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       58   58      1/4         I6           (4, 1, 0)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       59   59      1/4      V(64)          (1, 0, -3)          ()          3            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       59   59      3/8         V7       (1, 5, 2, -1)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       60   60        0         vi        (-4, -7, -3)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       60   60      1/4         I6           (4, 1, 0)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       61   61      1/4      V(64)          (1, 0, -3)          ()          3            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       61   61      3/8         V7       (1, 5, 2, -1)          ()          4            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       62   62        0         I}           (0, 4, 1)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       63   63        0      v.iv{         (-1, -4, 0)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       64   64        0   viio/III         (2, -1, -4)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       65   65      1/4         V7       (1, 5, 2, -1)          ()          6            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       66   66        0          i          (0, -3, 1)          ()          4            2     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       66   66      1/4         i6          (-3, 1, 0)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       67   67        0      ii%65      (-1, -4, 0, 2)          ()          5            2     0.714286
+                       MS3/04. Quae moerebat et dolebat.mscx       68   68        0        i}{          (0, -3, 1)          ()          8            2     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       68   68      1/4         i6          (-3, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       69   69        0      ii%65      (-1, -4, 0, 2)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       69   69      1/4         V7       (1, 5, 2, -1)          ()          6            1     0.857143
+                       MS3/04. Quae moerebat et dolebat.mscx       70   70        0     I.ii}{          (2, -1, 3)          ()          5            3     0.625000
+                       MS3/04. Quae moerebat et dolebat.mscx       71   71        0       viio        (-2, -5, -8)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       74   74      1/4       V(9)           (1, 5, 2)       (-4,)          1            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       74   74      3/8          V           (1, 5, 2)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx       75   75        0        I}{           (0, 4, 1)          ()          7            3     0.700000
+                       MS3/04. Quae moerebat et dolebat.mscx       75   75      1/4         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       76   76      1/4       V(6)          (1, 5, -3)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       77   77        0         I}           (0, 4, 1)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       77   77      1/4         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       78   78      1/4      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       79   79        0         I6           (4, 1, 0)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       79   79      1/4          I           (0, 4, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       80   80      1/4      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       81   81        0         I6           (4, 1, 0)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       81   81      1/4          I           (0, 4, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       83   83        0       viio        (-2, -5, -8)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       85   85        0         IV          (-1, 3, 0)          ()          7            1     0.875000
+                       MS3/04. Quae moerebat et dolebat.mscx       85   85      1/4       ii65       (-1, 3, 0, 2)          ()          5            3     0.625000
+                       MS3/04. Quae moerebat et dolebat.mscx       86   86        0       V(4)           (1, 0, 2)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       87   87        0        I}{           (0, 4, 1)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       87   87      1/4         I6           (4, 1, 0)          ()          2            1     0.666667
+                       MS3/04. Quae moerebat et dolebat.mscx       88   88      1/4      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       89   89        0         I6           (4, 1, 0)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       89   89      1/4          I           (0, 4, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       90   90      1/4      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       91   91        0         I6           (4, 1, 0)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       91   91      1/4          I           (0, 4, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       93   93        0       viio        (-2, -5, -8)          ()          5            0     1.000000
+                       MS3/04. Quae moerebat et dolebat.mscx       95   95      1/4       ii65       (-1, 3, 0, 2)          ()          5            3     0.625000
+                       MS3/04. Quae moerebat et dolebat.mscx       96   96        0       V(4)           (1, 0, 2)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx       96   96      1/4          V           (1, 5, 2)          ()          5            2     0.714286
+                       MS3/04. Quae moerebat et dolebat.mscx       97   97        0        I}{           (0, 4, 1)          ()          6            1     0.857143
+                       MS3/04. Quae moerebat et dolebat.mscx       97   97      1/4         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       98   98      1/4       V(6)          (1, 5, -3)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx       99   99      1/4         I6           (4, 1, 0)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx      101  101        0        I}{           (0, 4, 1)          ()          3            1     0.750000
+                       MS3/04. Quae moerebat et dolebat.mscx      102  102      1/4         IV          (-1, 3, 0)          ()          5            1     0.833333
+                       MS3/04. Quae moerebat et dolebat.mscx      102  102      3/8          V           (1, 5, 2)          ()          4            1     0.800000
+                       MS3/04. Quae moerebat et dolebat.mscx      103  103        0         I}           (0, 4, 1)          ()          4            1     0.800000
+                       MS3/05. Quis est homo qui non fleret.mscx    1    1      5/8      viio7   (-2, -5, -8, -11)          ()         10            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx    1    1      7/8   viio(#5)        (-2, -5, -1)          ()          3            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx    3    3      1/2      viio2   (-11, -2, -5, -8)          ()         12            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx    7    7      5/8      viio7   (-1, -4, -7, -10)          ()         10            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx    7    7      7/8  viio7(#4)    (-1, -4, 5, -10)          ()          4            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx    9    9      1/2     viio43   (-7, -10, -1, -4)          ()         12            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx   28   28        0   i.viio7{   (-2, -5, -8, -11)          ()         16            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx   38   38      3/8      viio6        (-5, -8, -2)          ()          7            0     1.000000
+                       MS3/05. Quis est homo qui non fleret.mscx   42   42      3/8      viio6        (-5, -8, -2)          ()          7            0     1.000000
+                       MS3/06. Vidit suum dulcem natum.mscx         3    3      1/2      viio7   (-3, -6, -9, -12)          ()          7            0     1.000000
+                       MS3/06. Vidit suum dulcem natum.mscx         6    6      1/4     viio43   (-9, -12, -3, -6)          ()          4            0     1.000000
+                       MS3/06. Vidit suum dulcem natum.mscx         7    7      3/4     viio43   (-9, -12, -3, -6)          ()          4            0     1.000000
+                       MS3/06. Vidit suum dulcem natum.mscx        22   22        0   viio7/ii  (-4, -7, -10, -13)          ()          5            0     1.000000
+                       MS3/06. Vidit suum dulcem natum.mscx        26   26      3/4      viio2   (-12, -3, -6, -9)          ()          6            0     1.000000
+                       MS3/06. Vidit suum dulcem natum.mscx        28   28      1/4   viio7/iv  (-4, -7, -10, -13)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx           7    7        0     viio65   (-5, -8, -11, -2)          ()          4            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx           9    9      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          11   11      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          27   27        0   iv.viio7   (-3, -6, -9, -12)          ()          6            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          28   28      1/8      viio6        (-6, -9, -3)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          30   30      1/8      viio6        (-6, -9, -3)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          37   37      1/8      viio6        (-6, -9, -3)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          45   45      1/8      viio6        (-6, -9, -3)          ()          6            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          47   47      1/8      viio6        (-5, -8, -2)          ()          6            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          58   58      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          67   67        0    viio/iv        (-3, -6, -9)          ()          3            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          80   80      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          81   81      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          83   83      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          90   90      1/8      viio6        (-5, -8, -2)          ()          5            0     1.000000
+                       MS3/07. Eja, Mater fons amois.mscx          92   92      1/8      viio6        (-5, -8, -2)          ()          4            0     1.000000

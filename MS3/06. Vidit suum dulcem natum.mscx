@@ -47,6 +47,8 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Uli Kneisel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1736</metaTag>
+    <metaTag name="composed_start">1736</metaTag>
     <metaTag name="composer">Giovanni Battista Pergolesi</metaTag>
     <metaTag name="copyright">Editions FREDIPI</metaTag>
     <metaTag name="creationDate">2019-07-31</metaTag>
@@ -54,11 +56,15 @@
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">6</metaTag>
     <metaTag name="movementTitle">Vidit suum dulcem natum</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/51434e98-33bf-3a8d-ba37-e2530dc252c2</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/1630246/scores/5661577</metaTag>
     <metaTag name="translator">fredipi</metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185771760</metaTag>
+    <metaTag name="wdt:P86">https://www.wikidata.org/wiki/Q185312</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q643347</metaTag>
+    <metaTag name="workNumber">P. 77</metaTag>
     <metaTag name="workTitle">Stabat Mater</metaTag>
     <Part>
       <Staff id="1">

@@ -5,7 +5,7 @@ This repo holds the current version of the DCML annotation workflow which is pul
 Please note that the `meta_ corpora` branch should be used with collections of corpora.
 
 
-# Overview
+## Overview
 |           file_name            |measures|labels|standard|annotators |
 |--------------------------------|-------:|-----:|--------|-----------|
 |01. Stabat Mater dolorosa       |      47|   166|2.2.0   |Uli Kneisel|
@@ -17,4 +17,4 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |07. Eja, Mater fons amois       |      94|   212|2.2.0   |Uli Kneisel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*

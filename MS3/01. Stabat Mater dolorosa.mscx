@@ -10407,7 +10407,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>f.i.{</name>
+            <name>f.i{</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>

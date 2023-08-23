@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/johentsch/ms3/main/schemas/harmonies/Le0zGjXmI5gdFw.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/johentsch/ms3/main/schemas/harmonies/DI67rKDYWs1Rew.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",

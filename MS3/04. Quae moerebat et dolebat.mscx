@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -15,14 +15,42 @@
       <staffDistance>7</staffDistance>
       <minSystemDistance>8</minSystemDistance>
       <maxSystemDistance>25</maxSystemDistance>
-      <lyricsOddFontSize>14</lyricsOddFontSize>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
+      <stemWidth>0.11</stemWidth>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <articulationAnchorOther>2</articulationAnchorOther>
       <hairpinPlacement>0</hairpinPlacement>
       <hairpinPosAbove x="0" y="-1.5"/>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <harmonyPlay>0</harmonyPlay>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <measureNumberInterval>1</measureNumberInterval>
       <hideEmptyStaves>1</hideEmptyStaves>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
       <showHeader>1</showHeader>
       <headerOddEven>0</headerOddEven>
       <oddHeaderL>$:composer:-$:workTitle: -$:movementNumber: $:movementTitle:</oddHeaderL>
@@ -31,13 +59,62 @@
       <evenFooterR>Dernière modification le: $M</evenFooterR>
       <oddFooterL>Création: $D</oddFooterL>
       <oddFooterR>Dernière modification le: $M</oddFooterR>
+      <voltaLineWidth>0.11</voltaLineWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <dynamicsPlacement>0</dynamicsPlacement>
       <dynamicsPosAbove x="0" y="-1"/>
-      <expressionFontSize>12</expressionFontSize>
+      <defaultFontFace>Edwin</defaultFontFace>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
+      <fingeringFontFace>Edwin</fingeringFontFace>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoPosAbove x="0" y="-4"/>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
+      <systemFontFace>Edwin</systemFontFace>
+      <staffFontFace>Edwin</staffFontFace>
       <staffPosAbove x="0" y="-1"/>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFontStyle>1</frameFontStyle>
       <user1FontStyle>1</user1FontStyle>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.4</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -55,6 +132,7 @@
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">4</metaTag>
     <metaTag name="movementTitle">Quæ mœrebat et dolebat</metaTag>
+    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/fbe9f427-6aad-3dd7-ba88-d58f08fcbd2b</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
@@ -72,7 +150,7 @@
           </StaffType>
         </Staff>
       <trackName>Alto</trackName>
-      <Instrument>
+      <Instrument id="alto">
         <longName>Alto</longName>
         <trackName>Alto</trackName>
         <minPitchP>52</minPitchP>
@@ -144,7 +222,7 @@
         <hideWhenEmpty>2</hideWhenEmpty>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Violino I/II
 Viola
 Violoncello
@@ -211,6 +289,7 @@ e organo</longName>
       <VBox>
         <height>15</height>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>4. Quæ mœrebat et dolebat</text>
@@ -230,6 +309,7 @@ e organo</longName>
         <topGap>0.928571</topGap>
         <bottomGap>10</bottomGap>
         <leftMargin>10</leftMargin>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
           <size>14</size>
@@ -3864,10 +3944,11 @@ e organo</longName>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
             <placement>below</placement>
+            <family>FreeSerif</family>
             <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> espr.</i></text>
             </Dynamic>
           <Harmony>
-            <name>.Eb.{I</name>
+            <name>.Eb.I{</name>
             <offset x="0.47247" y="-6.12227"/>
             </Harmony>
           <Chord>

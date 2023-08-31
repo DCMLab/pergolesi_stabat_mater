@@ -1,7 +1,7 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 2, '0', 'viio7') ms3.Parse.pergolesi_stabat_mater.03 O quam tristis et afflicta --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 2, '0', 'viio7') ms3.Parse.pergolesi_stabat_mater.03 O quam tristis et afflicta
 	The label 'viio7' in m. 2, onset 0 (MC 2, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of g.i, it expresses the scale degrees
 	('7', 'b2', 'b4', 'b6') [('F', 'Ab', 'Cb', 'Ebb')].

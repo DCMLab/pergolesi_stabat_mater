@@ -1,7 +1,7 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 1, '5/8', 'viio7') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 1, '5/8', 'viio7') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio7' in m. 1, onset 5/8 (MC 1, onset 5/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('7', 'b2', 'b4', 'b6') [('Bb', 'Db', 'Fb', 'Abb')].
@@ -9,7 +9,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 1, '5/8', 'viio7') ms3.Parse.p
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 1, '7/8', 'viio(#5)') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 1, '7/8', 'viio(#5)') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio(#5)' in m. 1, onset 7/8 (MC 1, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('7', 'b2', '4') [('Bb', 'Db', 'F')].
@@ -17,7 +17,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 1, '7/8', 'viio(#5)') ms3.Pars
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 3, '1/2', 'viio2') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 3, '1/2', 'viio2') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio2' in m. 3, onset 1/2 (MC 3, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('b6', '7', 'b2', 'b4') [('Abb', 'Bb', 'Db', 'Fb')].
@@ -25,7 +25,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 3, '1/2', 'viio2') ms3.Parse.p
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '5/8', 'viio7') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '5/8', 'viio7') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio7' in m. 7, onset 5/8 (MC 7, onset 5/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.v, it expresses the scale degrees
 	('7', 'b2', 'b4', 'b6') [('F', 'Ab', 'Cb', 'Ebb')].
@@ -33,7 +33,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '5/8', 'viio7') ms3.Parse.p
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '7/8', 'viio7(#4)') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '7/8', 'viio7(#4)') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio7(#4)' in m. 7, onset 7/8 (MC 7, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.v, it expresses the scale degrees
 	('7', 'b2', '#3', 'b6') [('F', 'Ab', 'B', 'Ebb')].
@@ -41,7 +41,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '7/8', 'viio7(#4)') ms3.Par
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '1/2', 'viio43') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '1/2', 'viio43') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio43' in m. 9, onset 1/2 (MC 9, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.v, it expresses the scale degrees
 	('b4', 'b6', '7', 'b2') [('Cb', 'Ebb', 'F', 'Ab')].
@@ -49,7 +49,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '1/2', 'viio43') ms3.Parse.
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 28, '0', 'i.viio7{') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 28, '0', 'i.viio7{') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'i.viio7{' in m. 28, onset 0 (MC 28, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('7', 'b2', 'b4', 'b6') [('Bb', 'Db', 'Fb', 'Abb')].
@@ -57,7 +57,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 28, '0', 'i.viio7{') ms3.Parse
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 38, '3/8', 'viio6') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 38, '3/8', 'viio6') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio6' in m. 38, onset 3/8 (MC 38, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('b2', 'b4', '7') [('Db', 'Fb', 'Bb')].
@@ -65,7 +65,7 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 38, '3/8', 'viio6') ms3.Parse.
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 42, '3/8', 'viio6') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret --
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 42, '3/8', 'viio6') ms3.Parse.pergolesi_stabat_mater.05 Quis est homo qui non fleret
 	The label 'viio6' in m. 42, onset 3/8 (MC 42, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('b2', 'b4', '7') [('Db', 'Fb', 'Bb')].

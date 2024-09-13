@@ -1,8 +1,33 @@
-# annotation_workflow_template
+![Version](https://img.shields.io/github/v/release/DCMLab/pergolesi_stabat_mater?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/pergolesi_stabat_mater)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
 
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/pergolesi_stabat_mater](https://github.com/DCMLab/pergolesi_stabat_mater) and the corresponding
+* documentation page [https://dcmlab.github.io/pergolesi_stabat_mater](https://dcmlab.github.io/pergolesi_stabat_mater)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/pergolesi_stabat_mater/introduction).
+
+# Giovanni Battista Pergolesi – Stabat Mater (1736)
+
+
+## Cite as
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/pergolesi_stabat_mater/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/pergolesi_stabat_mater/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 
 ## Overview

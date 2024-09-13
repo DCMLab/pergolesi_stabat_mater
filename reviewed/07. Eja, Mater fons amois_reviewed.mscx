@@ -122,19 +122,23 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q185312</metaTag>
     <metaTag name="annotators">Uli Kneisel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1736</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Stabat_Mater_(Pergolesi)</metaTag>
     <metaTag name="composed_start">1736</metaTag>
     <metaTag name="composer">Giovanni Battista Pergolesi</metaTag>
     <metaTag name="copyright">Editions FREDIPI</metaTag>
     <metaTag name="creationDate">2019-08-02</metaTag>
     <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Stabat_Mater,_P.77_(Pergolesi,_Giovanni_Battista)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">7</metaTag>
     <metaTag name="movementTitle">Eja mater fons amoris</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/0a339b96-745c-3d49-bb38-4a530705eb4b</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/11261</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/1630246/scores/5663846</metaTag>
@@ -298,8 +302,7 @@ e organo</longName>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="-0.717541" y="13.4083"/>
-          <text>STABAT MATER</text>
+          <text>from: Stabat Mater, P. 77</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -3683,11 +3686,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>c.i{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3763,11 +3761,6 @@ e organo</longName>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3790,11 +3783,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3824,11 +3812,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3844,11 +3827,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -3926,11 +3904,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -3939,11 +3912,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3952,14 +3920,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -4022,11 +3982,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4038,11 +3993,6 @@ e organo</longName>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -4051,11 +4001,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4137,29 +4082,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -4223,11 +4145,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -4246,22 +4163,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio43/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -4302,11 +4203,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4325,11 +4221,6 @@ e organo</longName>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -4347,11 +4238,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -4444,11 +4330,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4460,11 +4341,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -4474,11 +4350,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4540,11 +4411,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4556,11 +4422,6 @@ e organo</longName>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -4569,11 +4430,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4656,11 +4512,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4672,11 +4523,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -4686,11 +4532,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4760,29 +4601,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -4802,13 +4620,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -4903,16 +4714,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -4974,29 +4775,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -5055,11 +4833,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -5068,11 +4841,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -5081,14 +4849,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5159,29 +4919,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5331,29 +5068,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>3/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III.V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -5387,13 +5101,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5455,14 +5162,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5525,29 +5224,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5610,11 +5286,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -5623,11 +5294,6 @@ e organo</longName>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -5636,14 +5302,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5706,29 +5364,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5825,13 +5460,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -5855,13 +5483,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5895,13 +5516,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv.viio7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -5977,11 +5591,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -5993,11 +5602,6 @@ e organo</longName>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -6007,11 +5611,6 @@ e organo</longName>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -6085,11 +5684,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -6098,22 +5692,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -6197,11 +5775,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -6213,11 +5786,6 @@ e organo</longName>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -6227,11 +5795,6 @@ e organo</longName>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -6304,11 +5867,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -6317,22 +5875,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -6383,11 +5925,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -6436,16 +5973,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -6505,29 +6032,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -6570,29 +6074,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -6660,11 +6141,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -6683,11 +6159,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -6704,11 +6175,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -6812,11 +6278,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -6828,11 +6289,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -6842,11 +6298,6 @@ e organo</longName>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -6946,11 +6397,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -6959,22 +6405,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -7026,13 +6456,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -7078,13 +6501,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -7139,16 +6555,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -7215,29 +6621,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -7299,11 +6682,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -7312,11 +6690,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -7325,14 +6698,6 @@ e organo</longName>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -7393,11 +6758,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -7416,11 +6776,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -7434,11 +6789,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7524,11 +6874,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -7544,11 +6889,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -7558,11 +6898,6 @@ e organo</longName>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7639,21 +6974,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -7709,11 +7029,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i.i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7721,11 +7036,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7734,11 +7044,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7818,24 +7123,11 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -7903,24 +7195,11 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -7963,11 +7242,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Rest>
             <offset x="-0.658083" y="-2.46781"/>
             <durationType>eighth</durationType>
@@ -7987,11 +7261,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8035,11 +7304,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -8053,22 +7317,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7(+9)/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -8111,11 +7359,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
@@ -8138,11 +7381,6 @@ e organo</longName>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -8151,11 +7389,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8199,11 +7432,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -8217,22 +7445,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7(+9)/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -8275,11 +7487,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
@@ -8302,11 +7509,6 @@ e organo</longName>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -8315,11 +7517,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8383,11 +7580,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -8401,22 +7593,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7(+9)/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -8455,11 +7631,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V\\</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -8562,11 +7733,6 @@ e organo</longName>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -8575,11 +7741,6 @@ e organo</longName>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8666,11 +7827,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8682,11 +7838,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -8696,11 +7847,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8771,11 +7917,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8787,22 +7928,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -8830,13 +7955,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -8856,13 +7974,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -8996,21 +8107,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -9062,13 +8158,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -9095,21 +8184,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio/iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -9189,21 +8263,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio/III</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       <Measure>
         <vspacerDown>9.92641</vspacerDown>
@@ -9222,11 +8281,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -9275,11 +8329,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -9295,11 +8344,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -9340,11 +8384,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Ger6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9373,11 +8412,6 @@ e organo</longName>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -9386,11 +8420,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -9495,11 +8524,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -9552,11 +8576,6 @@ e organo</longName>
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
@@ -9572,11 +8591,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9620,11 +8634,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -9638,22 +8647,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7(+9)/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -9696,11 +8689,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
@@ -9719,11 +8707,6 @@ e organo</longName>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -9732,11 +8715,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9780,11 +8758,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -9798,22 +8771,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7(+9)/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -9856,11 +8813,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
@@ -9883,11 +8835,6 @@ e organo</longName>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -9896,11 +8843,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9956,11 +8898,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -9974,22 +8911,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7(+9)/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10018,11 +8939,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -10092,29 +9008,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10190,11 +9083,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -10207,11 +9095,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -10221,11 +9104,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10296,11 +9174,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -10309,22 +9182,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -10408,11 +9265,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10420,11 +9272,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10433,11 +9280,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10508,11 +9350,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>quarter</durationType>
@@ -10521,22 +9358,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10597,11 +9418,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -10650,16 +9466,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10722,29 +9528,6 @@ e organo</longName>
           <BarLine>
             <span>1</span>
             </BarLine>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10807,11 +9590,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -10820,11 +9598,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -10833,14 +9606,6 @@ e organo</longName>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -10901,11 +9666,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -10914,22 +9674,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -11016,11 +9760,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -11032,11 +9771,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -11046,11 +9780,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11120,11 +9849,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -11133,22 +9857,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11235,11 +9943,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -11248,11 +9951,6 @@ e organo</longName>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -11262,11 +9960,6 @@ e organo</longName>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11329,11 +10022,6 @@ e organo</longName>
             </BarLine>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -11346,22 +10034,6 @@ e organo</longName>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
@@ -11388,13 +10060,6 @@ e organo</longName>
             <span>1</span>
             </BarLine>
           </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          </voice>
         </Measure>
       </Staff>
     <Staff id="3">
@@ -11418,7 +10083,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>c.i{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -11443,7 +10107,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -11481,7 +10144,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11515,7 +10177,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11532,7 +10193,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11562,7 +10222,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11579,7 +10238,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -11587,7 +10245,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -11642,7 +10299,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11672,7 +10328,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11689,7 +10344,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11724,7 +10378,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11740,7 +10393,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11753,7 +10405,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -11814,7 +10465,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11848,7 +10498,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -11856,7 +10505,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio43/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11887,7 +10535,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11920,7 +10567,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11940,7 +10586,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11973,7 +10618,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11993,7 +10637,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12012,7 +10655,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12038,7 +10680,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12054,7 +10695,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12062,7 +10702,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -12129,7 +10768,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12149,7 +10787,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12168,7 +10805,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12194,7 +10830,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12210,7 +10845,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12218,7 +10852,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -12280,7 +10913,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12322,7 +10954,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -12360,7 +10991,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12393,7 +11023,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12410,7 +11039,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12440,7 +11068,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12465,7 +11092,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12478,7 +11104,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12519,7 +11144,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12549,7 +11173,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12566,7 +11189,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12596,7 +11218,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -12658,7 +11279,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III.V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -12698,7 +11318,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12725,7 +11344,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -12772,7 +11390,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12797,7 +11414,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12830,7 +11446,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12847,7 +11462,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12874,7 +11488,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12891,7 +11504,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12899,7 +11511,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -12945,7 +11556,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -12974,7 +11584,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12987,7 +11596,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
@@ -13043,7 +11651,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13099,7 +11706,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -13148,7 +11754,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv.viio7</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-5.37262"/>
             </Harmony>
           <Rest>
@@ -13188,7 +11793,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-5.52381"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -13212,7 +11816,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13226,7 +11829,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13246,7 +11848,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-5.947"/>
             </Harmony>
           <Beam>
@@ -13273,7 +11874,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13293,7 +11893,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.453571" y="-5.33174"/>
             </Harmony>
           <Chord>
@@ -13319,7 +11918,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-6.43095"/>
             </Harmony>
           <Beam>
@@ -13340,7 +11938,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.15119" y="-6.28773"/>
             </Harmony>
           <Chord>
@@ -13360,7 +11957,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-6.58707"/>
             </Harmony>
           <Chord>
@@ -13386,7 +11982,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.604762" y="-6.62513"/>
             </Harmony>
           <Rest>
@@ -13396,7 +11991,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.15119" y="-6.09628"/>
             </Harmony>
           <Chord>
@@ -13413,7 +12007,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.604762" y="-6.46098"/>
             </Harmony>
           </voice>
@@ -13476,7 +12069,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13516,7 +12108,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-5.07024"/>
             </Harmony>
           </voice>
@@ -13558,7 +12149,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.15119" y="-5.10387"/>
             </Harmony>
           <Beam>
@@ -13596,7 +12186,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.15119" y="-5.18639"/>
             </Harmony>
           <Chord>
@@ -13614,7 +12203,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.15119" y="-4.91905"/>
             </Harmony>
           <Chord>
@@ -13645,7 +12233,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.302381" y="-5.36013"/>
             </Harmony>
           <Chord>
@@ -13671,7 +12258,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.604762" y="-5.07024"/>
             </Harmony>
           <location>
@@ -13680,7 +12266,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.302381" y="-4.61667"/>
             </Harmony>
           </voice>
@@ -13744,7 +12329,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13774,7 +12358,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13798,7 +12381,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13823,7 +12405,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-5.37262"/>
             </Harmony>
           <Beam>
@@ -13844,7 +12425,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13863,7 +12443,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13883,7 +12462,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-4.49618"/>
             </Harmony>
           <Beam>
@@ -13917,7 +12495,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13937,7 +12514,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13957,7 +12533,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13981,7 +12556,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -14006,7 +12580,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -14047,7 +12620,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14084,7 +12656,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14101,7 +12672,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14131,7 +12701,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-7.68034"/>
             </Harmony>
           <Chord>
@@ -14149,7 +12718,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-7.39137"/>
             </Harmony>
           <location>
@@ -14158,7 +12726,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-7.08499"/>
             </Harmony>
           </voice>
@@ -14217,7 +12784,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14247,7 +12813,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14271,7 +12836,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.453571" y="-7.0623"/>
             </Harmony>
           <Chord>
@@ -14300,7 +12864,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-7.64048"/>
             </Harmony>
           <Beam>
@@ -14331,7 +12894,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.302381" y="-7.75557"/>
             </Harmony>
           <Chord>
@@ -14351,7 +12913,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14382,7 +12943,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7/V{</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.755952" y="-6.41831"/>
             </Harmony>
           <Chord>
@@ -14410,7 +12970,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.36071" y="-6.50604"/>
             </Harmony>
           </voice>
@@ -14424,7 +12983,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i.i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14454,7 +13012,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14473,7 +13030,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14504,7 +13060,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -14531,7 +13086,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -14540,7 +13094,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14578,7 +13131,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14610,7 +13162,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -14640,7 +13191,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14659,7 +13209,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14675,7 +13224,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14688,7 +13236,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(+9)/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14707,7 +13254,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -14741,7 +13287,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14765,7 +13310,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14784,7 +13328,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14800,7 +13343,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14813,7 +13355,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(+9)/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14837,7 +13378,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -14883,7 +13423,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14896,7 +13435,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14925,7 +13463,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14941,7 +13478,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14954,7 +13490,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(+9)/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-0.407143</minDistance>
             <offset x="0" y="-3.11143"/>
             </Harmony>
@@ -14980,7 +13515,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -15036,7 +13570,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.15119" y="-5.97738"/>
             </Harmony>
           <Chord>
@@ -15064,7 +13597,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.91905"/>
             </Harmony>
           </voice>
@@ -15105,7 +13637,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.15119" y="-5.37262"/>
             </Harmony>
           <Beam>
@@ -15135,7 +13666,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15149,7 +13679,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15165,7 +13694,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -15207,7 +13735,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15227,7 +13754,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15247,7 +13773,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -15282,7 +13807,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -15413,7 +13937,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15429,7 +13952,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15446,7 +13968,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15499,7 +14020,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15516,7 +14036,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15585,7 +14104,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/III</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15598,7 +14116,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15615,7 +14132,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -15632,7 +14148,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -15640,7 +14155,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -15694,7 +14208,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15724,7 +14237,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15737,7 +14249,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15763,7 +14274,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -15804,7 +14314,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -15834,7 +14343,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15853,7 +14361,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15869,7 +14376,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15886,7 +14392,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(+9)/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15905,7 +14410,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -15946,7 +14450,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15970,7 +14473,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15989,7 +14491,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16005,7 +14506,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -16026,7 +14526,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(+9)/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16045,7 +14544,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16069,7 +14567,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -16110,7 +14607,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16129,7 +14625,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -16142,7 +14637,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16155,7 +14649,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7(+9)/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16174,7 +14667,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -16242,7 +14734,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -16275,7 +14766,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16294,7 +14784,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16322,7 +14811,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -16359,7 +14847,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16378,7 +14865,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16410,7 +14896,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16440,7 +14925,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16460,7 +14944,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16484,7 +14967,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16514,7 +14996,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16533,7 +15014,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16564,7 +15044,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -16589,7 +15068,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16616,7 +15094,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -16686,7 +15163,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16735,7 +15211,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -16773,7 +15248,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16807,7 +15281,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16824,7 +15297,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16854,7 +15326,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -16871,7 +15342,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -16879,7 +15349,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -16938,7 +15407,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -16958,7 +15426,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16986,7 +15453,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -17052,7 +15518,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -17088,7 +15553,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17107,7 +15571,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17132,7 +15595,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -17141,7 +15603,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -17168,7 +15629,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -17230,7 +15690,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -17255,7 +15714,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -17263,7 +15721,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -17305,7 +15762,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -17333,7 +15789,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -17361,7 +15816,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -17427,7 +15881,6 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>

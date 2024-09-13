@@ -17,4 +17,4 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |07. Eja, Mater fons amois       |      94|   212|2.2.0   |Uli Kneisel|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

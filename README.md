@@ -14,8 +14,7 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Giovanni Battista Pergolesi – Stabat Mater (1736)
 
-
-## Cite as
+The Stabat Mater is one of the few works that can be definitively attributed to Pergolesi. Written shortly before the composer's untimely death, this work has since become ubiquitous for its innovative implementation of an accessible, opera-like style within a sacred context. Our annotations highlight the poignant dissonances and tensions that enrich the ostensibly simple vocabulary of this work.
 
 ## Version history
 

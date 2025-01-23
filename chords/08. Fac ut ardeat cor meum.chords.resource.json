@@ -156,25 +156,25 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "crescendo_line",
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
         "name": "decrescendo_hairpin",
         "type": "string"
+      },
+      {
+        "name": "diminuendo_line",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "FC9AmdlD3zLwBQ",
-    "filepath": "chords/FC9AmdlD3zLwBQ.schema.yaml",
+    "identifier": "yj9LTmL--AP0aA",
+    "filepath": "chords/yj9LTmL--AP0aA.schema.yaml",
     "used_in": "08. Fac ut ardeat cor meum"
   },
   "creator": {

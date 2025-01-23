@@ -168,7 +168,15 @@
         "type": "string"
       },
       {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "crescendo_line",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -178,19 +186,11 @@
       {
         "name": "HairPin:3_smorz..",
         "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "yCloXwLHdrofmg",
-    "filepath": "chords/yCloXwLHdrofmg.schema.yaml",
+    "identifier": "kI9bGwNMHf7irA",
+    "filepath": "chords/kI9bGwNMHf7irA.schema.yaml",
     "used_in": "12. Quando corpus morietur"
   },
   "creator": {

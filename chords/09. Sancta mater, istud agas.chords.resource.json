@@ -166,10 +166,6 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "crescendo_line",
         "type": "string"
       },
@@ -178,13 +174,17 @@
         "type": "string"
       },
       {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "decrescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "SaGBExobf60Sbw",
-    "filepath": "chords/SaGBExobf60Sbw.schema.yaml",
+    "identifier": "GFJ-Wp2UlR_mvg",
+    "filepath": "chords/GFJ-Wp2UlR_mvg.schema.yaml",
     "used_in": "09. Sancta mater, istud agas"
   },
   "creator": {

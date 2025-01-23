@@ -174,11 +174,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "crescendo_line",
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -187,8 +187,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "z6dWVizVDFOeiQ",
-    "filepath": "chords/z6dWVizVDFOeiQ.schema.yaml",
+    "identifier": "REbZ6gIchi34TA",
+    "filepath": "chords/REbZ6gIchi34TA.schema.yaml",
     "used_in": "10. Fac ut portem Christi mortem"
   },
   "creator": {

@@ -42,18 +42,28 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q185312</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1736</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Stabat_Mater_(Pergolesi)</metaTag>
+    <metaTag name="composed_start">1736</metaTag>
     <metaTag name="composer">Giovanni Battista Pergolesi</metaTag>
     <metaTag name="copyright">Editions FREDIPI</metaTag>
     <metaTag name="creationDate">2019-08-03</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Stabat_Mater,_P.77_(Pergolesi,_Giovanni_Battista)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">8</metaTag>
     <metaTag name="movementTitle">Fac ut ardeat cor meum</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/0a339b96-745c-3d49-bb38-4a530705eb4b</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/11261</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/1630246/scores/5667805</metaTag>
     <metaTag name="translator">fredipi</metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185771760</metaTag>
+    <metaTag name="wdt:P86">https://www.wikidata.org/wiki/Q185312</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q643347</metaTag>
+    <metaTag name="workNumber">P. 77</metaTag>
     <metaTag name="workTitle">Stabat Mater</metaTag>
     <Part>
       <Staff id="1">

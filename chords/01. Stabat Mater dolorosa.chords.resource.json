@@ -178,17 +178,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "Uv41GCIqMVzneQ",
-    "filepath": "chords/Uv41GCIqMVzneQ.schema.yaml",
+    "identifier": "66RfA-uyMor_YA",
+    "filepath": "chords/66RfA-uyMor_YA.schema.yaml",
     "used_in": "01. Stabat Mater dolorosa"
   },
   "creator": {
@@ -202,5 +202,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "6005e7e6223315ed037a3bb2d2d47968fbeab9ca",
+  "git_tag": "v3.0-13-g6005e7e"
 }

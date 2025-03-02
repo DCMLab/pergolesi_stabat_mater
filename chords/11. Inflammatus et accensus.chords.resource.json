@@ -156,6 +156,14 @@
         "type": "string"
       },
       {
+        "name": "metronome_base",
+        "type": "string"
+      },
+      {
+        "name": "metronome_number",
+        "type": "string"
+      },
+      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -166,11 +174,7 @@
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -178,13 +182,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "crescendo_line",
+        "type": "string"
+      },
+      {
+        "name": "diminuendo_line",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "AuWwJgzv9GUApA",
-    "filepath": "chords/AuWwJgzv9GUApA.schema.yaml",
+    "identifier": "5L2Py2hqebGFXw",
+    "filepath": "chords/5L2Py2hqebGFXw.schema.yaml",
     "used_in": "11. Inflammatus et accensus"
   },
   "creator": {
@@ -199,6 +207,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "1c31054ae8a92f744c88ec00c2afe34277d1d6f9",
-  "git_tag": "v3.0"
+  "git_revision": "adafd073b9f6e80195c74391eb1f972455b1f13f",
+  "git_tag": "v3.0-61-gadafd07"
 }

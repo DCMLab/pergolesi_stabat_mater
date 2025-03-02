@@ -178,18 +178,18 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "decrescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "kWyEO2O82lW_lg",
-    "filepath": "chords/kWyEO2O82lW_lg.schema.yaml",
-    "used_in": "01. Stabat Mater dolorosa"
+    "identifier": "UeR1yf49mGcuIA",
+    "filepath": "chords/UeR1yf49mGcuIA.schema.yaml",
+    "used_in": "02. Cujus animam gementem"
   },
   "creator": {
     "@context": "https://schema.org/",

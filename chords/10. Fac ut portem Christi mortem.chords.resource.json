@@ -203,6 +203,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "1c31054ae8a92f744c88ec00c2afe34277d1d6f9",
-  "git_tag": "v3.0"
+  "git_revision": "d08ac049ab9d71dfbb8a8ee06179288c52cd3afe",
+  "git_tag": "v3.0-57-gd08ac04"
 }

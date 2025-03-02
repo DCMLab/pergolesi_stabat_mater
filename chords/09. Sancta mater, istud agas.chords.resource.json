@@ -156,6 +156,14 @@
         "type": "string"
       },
       {
+        "name": "metronome_base",
+        "type": "string"
+      },
+      {
+        "name": "metronome_number",
+        "type": "string"
+      },
+      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -163,6 +171,10 @@
         "name": "slur",
         "title": "Slur",
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers.",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -176,15 +188,11 @@
       {
         "name": "crescendo_hairpin",
         "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "ACcG-RxUrJL5QA",
-    "filepath": "chords/ACcG-RxUrJL5QA.schema.yaml",
+    "identifier": "01JM3asXmEtSXw",
+    "filepath": "chords/01JM3asXmEtSXw.schema.yaml",
     "used_in": "09. Sancta mater, istud agas"
   },
   "creator": {
@@ -198,7 +206,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "1c31054ae8a92f744c88ec00c2afe34277d1d6f9",
-  "git_tag": "v3.0"
+  }
 }

@@ -3,24 +3,6 @@ Warnings encountered during the last execution of ms3 review
 
 COMPETING_MEASURE_INFO_WARNING (9, 'mc', 47, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa
 	mc 47: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa
-	Phrase beginning and endings don't match:
-	mn_playthrough phraseend mn_playthrough phraseend
-	            1a         {             5a        }{
-	            5a        }{             8a        }{
-	            8a        }{            11a         }
-	           12a         {            17a         }
-	           18a         {            19a         }
-	           20a         {            21a         }
-	           22a         {            23a         }
-	           24a         {            26a        }{
-	           26a        }{            28a        }{
-	           28a        }{            32a         }
-	           33a         {            37a         }
-	           40a        }{            40a        }{
-	           43a         {            42a         }
-	           45a        }{            45a        }{
-	           NaN       NaN            47a         }
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 4, '3/8', 'viio6') ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa
 	The label 'viio6' in m. 4, onset 3/8 (MC 4, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of f.i, it expresses the scale degrees

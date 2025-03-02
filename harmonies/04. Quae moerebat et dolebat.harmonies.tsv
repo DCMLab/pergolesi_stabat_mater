@@ -79,7 +79,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 40	40	78	78	1.0	0	0	2/4	3	1	I6	Eb	V		I6	I		6					M	0	0	4, 1, 0		0	4
 40	40	79	79	1.0	1/4	1/4	2/4	3	1	I	Eb	V		I	I							M	0	0	0, 4, 1		0	0
 41	41	80	80	1.0	0	0	2/4	3	1	IV	Eb	V		IV	IV							M	0	0	-1, 3, 0		-1	-1
-41	41	81	81	1.0	1/4	1/4	2/4	3	1	#viio6	Eb	V		#viio6	#vii	o	6					o	0	0	2, -1, 5		5	2
+41	41	81	81	1.0	1/4	1/4	2/4	3	1	viio6	Eb	V		viio6	vii	o	6					o	0	0	2, -1, 5		5	2
 42	42	82	82	1.0	0	0	2/4	3	1	I6	Eb	V		I6	I		6					M	0	0	4, 1, 0		0	4
 42	42	83	83	1.0	1/4	1/4	2/4	3	1	I	Eb	V		I	I							M	0	0	0, 4, 1		0	0
 43	43	84	84	1.0	0	0	2/4	3	1	ii	Eb	V		ii	ii							m	0	0	2, -1, 3		2	2
@@ -174,7 +174,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 85	85	169	169	1.0	1/4	1/4	2/4	3	1	ii65	Eb	I		ii65	ii		65					mm7	0	0	-1, 3, 0, 2		2	-1
 86	86	170	170	1.0	0	0	2/4	3	1	V(4)	Eb	I		V(4)	V			4				M	0	0	1, 0, 2		1	1
 86	86	171	171	1.0	1/4	1/4	2/4	3	1	V7	Eb	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
-87	87	172	172	1.0	0	0	2/4	3	1	I}{	Eb	I		I	I						}{	M	0	0	0, 4, 1		0	0
+87	87	172	172	1.0	0	0	2/4	3	1	I}	Eb	I		I	I						}	M	0	0	0, 4, 1		0	0
 87	87	173	173	1.0	1/4	1/4	2/4	3	1	I6	Eb	I		I6	I		6					M	0	0	4, 1, 0		0	4
 88	88	174	174	1.0	0	0	2/4	3	1	IV{	Eb	I		IV	IV						{	M	0	0	-1, 3, 0		-1	-1
 88	88	175	175	1.0	1/4	1/4	2/4	3	1	viio6	Eb	I		viio6	vii	o	6					o	0	0	2, -1, 5		5	2
@@ -206,7 +206,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 100	100	199	199	0.5	1/4	1/4	2/4	3	1	V(64)	Eb	I		V(64)	V			64				M	0	0	1, 0, 4		1	1
 100	100	399/2	399/2	0.5	3/8	3/8	2/4	3	1	V7	Eb	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
 101	101	200	200	0.5	0	0	2/4	3	1	I}{	Eb	I		I	I						}{	M	0	0	0, 4, 1		0	0
-101	101	401/2	401/2	1.0	1/8	1/8	2/4	3	1	#viio43/V	Eb	I		#viio43/V	#vii	o	43		V			o7	0	0	0, -3, 6, 3		6	0
+101	101	401/2	401/2	1.0	1/8	1/8	2/4	3	1	viio43/V	Eb	I		viio43/V	vii	o	43		V			o7	0	0	0, -3, 6, 3		6	0
 101	101	403/2	403/2	0.5	3/8	3/8	2/4	3	1	ii%43	Eb	I		ii%43	ii	%	43					%7	0	0	-4, 0, 2, -1		2	-4
 102	102	202	202	0.5	0	0	2/4	3	1	V	Eb	I		V	V							M	0	0	1, 5, 2		1	1
 102	102	405/2	405/2	0.5	1/8	1/8	2/4	3	1	vi6	Eb	I		vi6	vi		6					m	0	0	0, 4, 3		3	0

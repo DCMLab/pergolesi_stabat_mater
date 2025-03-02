@@ -21,19 +21,15 @@
       <harmonyPlay>0</harmonyPlay>
       <measureNumberInterval>1</measureNumberInterval>
       <concertPitch>1</concertPitch>
-      <showHeader>1</showHeader>
       <headerOddEven>0</headerOddEven>
       <oddHeaderL>$:composer:-$:workTitle: -$:movementNumber: $:movementTitle:</oddHeaderL>
-      <oddHeaderR>$p</oddHeaderR>
       <evenFooterL>Création: $D</evenFooterL>
       <evenFooterR>Dernière modification le: $M</evenFooterR>
       <oddFooterL>Création: $D</oddFooterL>
       <oddFooterR>Dernière modification le: $M</oddFooterR>
       <dynamicsPlacement>0</dynamicsPlacement>
-      <dynamicsPosAbove x="0" y="-1.5"/>
       <expressionFontSize>12</expressionFontSize>
       <tempoPosAbove x="0" y="-4"/>
-      <staffPosAbove x="0" y="-1"/>
       <frameFontStyle>1</frameFontStyle>
       <user1FontStyle>1</user1FontStyle>
       <Spatium>1.3</Spatium>
@@ -316,6 +312,12 @@ e organo</longName>
           <Tempo>
             <tempo>3.3333300000000001</tempo>
             <text>Allegro</text>
+            </Tempo>
+          <Tempo>
+            <tempo>3</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
             </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>

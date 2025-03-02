@@ -335,6 +335,13 @@ e organo</longName>
             <followText>1</followText>
             <text>Andantino</text>
             </Tempo>
+          <Tempo>
+            <tempo>1.5750000000000002</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 63
+</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>

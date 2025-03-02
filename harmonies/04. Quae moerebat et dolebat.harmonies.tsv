@@ -128,7 +128,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 63	63	125	125	1.0	1/4	1/4	2/4	3	1	iv2	Eb	ii		iv2	iv		2					mm7	0	1	-3, -1, -4, 0		-1	-3
 64	64	126	126	1.0	0	0	2/4	3	1	viio/III	Eb	ii		viio/III	vii	o			III			o	0	1	2, -1, -4		2	2
 64	64	127	127	1.0	1/4	1/4	2/4	3	1	iv43	Eb	ii		iv43	iv		43					mm7	0	1	0, -3, -1, -4		-1	0
-65	65	128	128	1.0	0	0	2/4	3	1	viio7	Eb	ii		viio7	vii	o	7					o7	0	1	-2, -5, -8, -11		-2	-2
+65	65	128	128	1.0	0	0	2/4	3	1	#viio7	Eb	ii		#viio7	#vii	o	7					o7	0	1	5, 2, -1, -4		5	5
 65	65	129	129	1.0	1/4	1/4	2/4	3	1	V7	Eb	ii		V7	V		7					Mm7	0	1	1, 5, 2, -1		1	1
 66	66	130	130	1.0	0	0	2/4	3	1	i	Eb	ii		i	i							m	0	1	0, -3, 1		0	0
 66	66	131	131	1.0	1/4	1/4	2/4	3	1	i6	Eb	ii		i6	i		6					m	0	1	-3, 1, 0		0	-3
@@ -170,7 +170,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 83	83	165	165	1.0	1/4	1/4	2/4	3	1	ii43	Eb	I		ii43	ii		43					mm7	0	0	3, 0, 2, -1		2	3
 84	84	166	166	1.0	0	0	2/4	3	1	V7	Eb	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
 84	84	167	167	1.0	1/4	1/4	2/4	3	1	V65	Eb	I		V65	V		65					Mm7	0	0	5, 2, -1, 1		1	5
-85	85	168	168	1.0	0	0	2/4	3	1	IV	Eb	I		IV	IV							M	0	0	-1, 3, 0		-1	-1
+85	85	168	168	1.0	0	0	2/4	3	1	I	Eb	I		I	I							M	0	0	0, 4, 1		0	0
 85	85	169	169	1.0	1/4	1/4	2/4	3	1	ii65	Eb	I		ii65	ii		65					mm7	0	0	-1, 3, 0, 2		2	-1
 86	86	170	170	1.0	0	0	2/4	3	1	V(4)	Eb	I		V(4)	V			4				M	0	0	1, 0, 2		1	1
 86	86	171	171	1.0	1/4	1/4	2/4	3	1	V7	Eb	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1

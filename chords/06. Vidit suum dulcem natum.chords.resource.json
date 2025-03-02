@@ -156,6 +156,14 @@
         "type": "string"
       },
       {
+        "name": "metronome_base",
+        "type": "string"
+      },
+      {
+        "name": "metronome_number",
+        "type": "string"
+      },
+      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -166,25 +174,25 @@
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
-        "type": "string"
-      },
-      {
-        "name": "HairPin:3_smorz.",
-        "type": "string"
-      },
-      {
         "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
         "name": "crescendo_hairpin",
         "type": "string"
+      },
+      {
+        "name": "diminuendo_line",
+        "type": "string"
+      },
+      {
+        "name": "HairPin:3_smorz.",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "A-t-TRYV8Xxpug",
-    "filepath": "chords/A-t-TRYV8Xxpug.schema.yaml",
+    "identifier": "lEn7WiAb3F4lXA",
+    "filepath": "chords/lEn7WiAb3F4lXA.schema.yaml",
     "used_in": "06. Vidit suum dulcem natum"
   },
   "creator": {
@@ -199,6 +207,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "1c31054ae8a92f744c88ec00c2afe34277d1d6f9",
-  "git_tag": "v3.0"
+  "git_revision": "f4e270ff285410a1f3587153c3a499d952900965",
+  "git_tag": "v3.0-36-gf4e270f"
 }

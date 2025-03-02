@@ -8971,7 +8971,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(v74)</name>
+            <name>V(74)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9108,7 +9108,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(v74)</name>
+            <name>V(74)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10858,7 +10858,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(v74)</name>
+            <name>V(74)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

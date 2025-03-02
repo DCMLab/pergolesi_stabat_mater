@@ -174,7 +174,7 @@
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers."
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -182,14 +182,14 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "UeR1yf49mGcuIA",
-    "filepath": "chords/UeR1yf49mGcuIA.schema.yaml",
-    "used_in": "02. Cujus animam gementem"
+    "identifier": "YEyUeqLcq35o3A",
+    "filepath": "chords/YEyUeqLcq35o3A.schema.yaml",
+    "used_in": "01. Stabat Mater dolorosa"
   },
   "creator": {
     "@context": "https://schema.org/",
@@ -202,5 +202,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "83ab1390131b0a033ddc7652afb496f8f1ca0de5",
+  "git_tag": "v3.0-65-g83ab139"
 }

@@ -146,6 +146,14 @@
         "type": "string"
       },
       {
+        "name": "metronome_base",
+        "type": "string"
+      },
+      {
+        "name": "metronome_number",
+        "type": "string"
+      },
+      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -156,7 +164,7 @@
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -164,7 +172,7 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -173,8 +181,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "YEyr9tqYLypbPA",
-    "filepath": "chords/YEyr9tqYLypbPA.schema.yaml",
+    "identifier": "AxcWmZzmxmt6MA",
+    "filepath": "chords/AxcWmZzmxmt6MA.schema.yaml",
     "used_in": "08. Fac ut ardeat cor meum"
   },
   "creator": {
@@ -189,6 +197,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "39416c5e6944b075137e2f55d812245f899bb8f4",
-  "git_tag": "v3.0-48-g39416c5"
+  "git_revision": "83ab1390131b0a033ddc7652afb496f8f1ca0de5",
+  "git_tag": "v3.0-65-g83ab139"
 }

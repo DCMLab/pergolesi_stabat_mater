@@ -1,4 +1,4 @@
-mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	lyrics_1	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin	diminuendo_line	crescendo_line	crescendo_hairpin
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	lyrics_1	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin	crescendo_line	diminuendo_line	crescendo_hairpin
 1	1	0	0	0.0	0	0	Tempo	4/4	1	1	0									Atempogiusto	60.0			1.0					
 1	1	0	0	0.0	0	0	Tempo	4/4	1	1	0									𝅘𝅥=100	100.0	𝅘𝅥	100.0	0.0					
 1	1	0	0	2.0	0	0	Chord	4/4	3	1	1/2		1/2	1	0														
@@ -1295,11 +1295,11 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 53	53	417/2	417/2	0.5	1/8	1/8	Chord	4/4	4	1	1/8		1/8	1	1208														
 53	53	209	209	0.5	1/4	1/4	Chord	4/4	4	1	1/8		1/8	1	1209														
 53	53	419/2	419/2	0.5	3/8	3/8	Chord	4/4	4	1	1/8		1/8	1	1210														
-53	53	210	210	0.0	1/2	1/2	Spanner	4/4	4	1	0																0		
-53	53	210	210	0.5	1/2	1/2	Chord	4/4	4	1	1/8		1/8	1	1211												0		
-53	53	421/2	421/2	0.5	5/8	5/8	Chord	4/4	4	1	1/8		1/8	1	1212												0		
-53	53	211	211	0.5	3/4	3/4	Chord	4/4	4	1	1/8		1/8	1	1213												0		
-53	53	423/2	423/2	0.5	7/8	7/8	Chord	4/4	4	1	1/8		1/8	1	1214												0		
+53	53	210	210	0.0	1/2	1/2	Spanner	4/4	4	1	0																	0	
+53	53	210	210	0.5	1/2	1/2	Chord	4/4	4	1	1/8		1/8	1	1211													0	
+53	53	421/2	421/2	0.5	5/8	5/8	Chord	4/4	4	1	1/8		1/8	1	1212													0	
+53	53	211	211	0.5	3/4	3/4	Chord	4/4	4	1	1/8		1/8	1	1213													0	
+53	53	423/2	423/2	0.5	7/8	7/8	Chord	4/4	4	1	1/8		1/8	1	1214													0	
 54	54	212	212	1.0	0	0	Chord	4/4	1	1	1/4		1/4	1	1215	-ro.													
 54	54	212	212	1.0	0	0	Chord	4/4	2	1	1/4		1/4	1	1216	-ro.													
 54	54	212	212	1.5	0	0	Chord	4/4	3	1	3/8		1/4	3/2	1217										170				
@@ -1635,11 +1635,11 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 65	65	513/2	513/2	0.5	1/8	1/8	Chord	4/4	4	1	1/8		1/8	1	1503										204				
 65	65	257	257	0.5	1/4	1/4	Chord	4/4	4	1	1/8		1/8	1	1504										204				
 65	65	515/2	515/2	0.5	3/8	3/8	Chord	4/4	4	1	1/8		1/8	1	1505										204				
-65	65	258	258	0.0	1/2	1/2	Spanner	4/4	4	1	0														204			0	
-65	65	258	258	0.5	1/2	1/2	Chord	4/4	4	1	1/8		1/8	1	1506										204			0	
-65	65	517/2	517/2	0.5	5/8	5/8	Chord	4/4	4	1	1/8		1/8	1	1507										204			0	
-65	65	259	259	0.5	3/4	3/4	Chord	4/4	4	1	1/8		1/8	1	1508										204			0	
-65	65	519/2	519/2	0.5	7/8	7/8	Chord	4/4	4	1	1/8		1/8	1	1509										204			0	
+65	65	258	258	0.0	1/2	1/2	Spanner	4/4	4	1	0														204		0		
+65	65	258	258	0.5	1/2	1/2	Chord	4/4	4	1	1/8		1/8	1	1506										204		0		
+65	65	517/2	517/2	0.5	5/8	5/8	Chord	4/4	4	1	1/8		1/8	1	1507										204		0		
+65	65	259	259	0.5	3/4	3/4	Chord	4/4	4	1	1/8		1/8	1	1508										204		0		
+65	65	519/2	519/2	0.5	7/8	7/8	Chord	4/4	4	1	1/8		1/8	1	1509										204		0		
 66	66	260	260	1.5	0	0	Chord	4/4	3	1	3/8		1/4	3/2	1510										207				
 66	66	523/2	523/2	0.5	3/8	3/8	Chord	4/4	3	1	1/8		1/8	1	1511														
 66	66	262	262	0.75	1/2	1/2	Chord	4/4	3	1	3/16		1/8	3/2	1512														
@@ -1657,10 +1657,10 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 66	66	525/2	525/2	0.5	5/8	5/8	Chord	4/4	3	2	1/8		1/8	1	1524														
 66	66	263	263	0.5	3/4	3/4	Chord	4/4	3	2	1/8		1/8	1	1525														
 66	66	527/2	527/2	0.5	7/8	7/8	Chord	4/4	3	2	1/8		1/8	1	1526														
-66	66	260	260	0.5	0	0	Chord	4/4	4	1	1/8		1/8	1	1527										204			0	
-66	66	521/2	521/2	0.5	1/8	1/8	Chord	4/4	4	1	1/8		1/8	1	1528										204			0	
-66	66	261	261	0.5	1/4	1/4	Chord	4/4	4	1	1/8		1/8	1	1529										204			0	
-66	66	523/2	523/2	0.5	3/8	3/8	Chord	4/4	4	1	1/8		1/8	1	1530										204			0	
+66	66	260	260	0.5	0	0	Chord	4/4	4	1	1/8		1/8	1	1527										204		0		
+66	66	521/2	521/2	0.5	1/8	1/8	Chord	4/4	4	1	1/8		1/8	1	1528										204		0		
+66	66	261	261	0.5	1/4	1/4	Chord	4/4	4	1	1/8		1/8	1	1529										204		0		
+66	66	523/2	523/2	0.5	3/8	3/8	Chord	4/4	4	1	1/8		1/8	1	1530										204		0		
 66	66	262	262	0.0	1/2	1/2	Dynamic	4/4	4	1	0						f												
 66	66	262	262	0.0	1/2	1/2	Spanner	4/4	4	1	0																		
 66	66	262	262	0.5	1/2	1/2	Chord	4/4	4	1	1/8		1/8	1	1531														

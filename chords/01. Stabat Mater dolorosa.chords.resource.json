@@ -202,5 +202,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "83ab1390131b0a033ddc7652afb496f8f1ca0de5",
+  "git_tag": "v3.0-65-g83ab139"
 }

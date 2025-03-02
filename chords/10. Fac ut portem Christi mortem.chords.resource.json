@@ -174,21 +174,21 @@
         "type": "string"
       },
       {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "crescendo_line",
         "type": "string"
       },
       {
         "name": "crescendo_hairpin",
         "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "REbZ6gIchi34TA",
-    "filepath": "chords/REbZ6gIchi34TA.schema.yaml",
+    "identifier": "F90sQac62zEZFg",
+    "filepath": "chords/F90sQac62zEZFg.schema.yaml",
     "used_in": "10. Fac ut portem Christi mortem"
   },
   "creator": {
@@ -203,6 +203,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "1cd1b01601924d42a825084317a5c3bcc7162047",
-  "git_tag": "v3.0-58-g1cd1b01"
+  "git_revision": "83ab1390131b0a033ddc7652afb496f8f1ca0de5",
+  "git_tag": "v3.0-65-g83ab139"
 }

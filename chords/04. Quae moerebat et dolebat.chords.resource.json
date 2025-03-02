@@ -168,7 +168,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_line",
         "type": "string"
       },
       {
@@ -176,17 +180,13 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "885NobPL9ZyJDw",
-    "filepath": "chords/885NobPL9ZyJDw.schema.yaml",
+    "identifier": "gYzZHL_euKtaxQ",
+    "filepath": "chords/gYzZHL_euKtaxQ.schema.yaml",
     "used_in": "04. Quae moerebat et dolebat"
   },
   "creator": {
@@ -200,5 +200,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "83ab1390131b0a033ddc7652afb496f8f1ca0de5",
+  "git_tag": "v3.0-65-g83ab139"
 }

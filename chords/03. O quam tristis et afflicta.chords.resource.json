@@ -168,11 +168,11 @@
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -181,8 +181,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "beFzuzMk_gFX4Q",
-    "filepath": "chords/beFzuzMk_gFX4Q.schema.yaml",
+    "identifier": "JoW4WUOVE8ig7A",
+    "filepath": "chords/JoW4WUOVE8ig7A.schema.yaml",
     "used_in": "03. O quam tristis et afflicta"
   },
   "creator": {
@@ -196,5 +196,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "83ab1390131b0a033ddc7652afb496f8f1ca0de5",
+  "git_tag": "v3.0-65-g83ab139"
 }

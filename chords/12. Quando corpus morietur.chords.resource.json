@@ -168,7 +168,7 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -184,13 +184,13 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "mi3lNWhiHjQHFA",
-    "filepath": "chords/mi3lNWhiHjQHFA.schema.yaml",
+    "identifier": "cuTR5vO4wY77dg",
+    "filepath": "chords/cuTR5vO4wY77dg.schema.yaml",
     "used_in": "12. Quando corpus morietur"
   },
   "creator": {
@@ -205,6 +205,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "68493d932d30defede55587df69c8a819cf4c6a6",
-  "git_tag": "v3.0-64-g68493d9"
+  "git_revision": "83ab1390131b0a033ddc7652afb496f8f1ca0de5",
+  "git_tag": "v3.0-65-g83ab139"
 }

@@ -337,6 +337,12 @@ e organo</longName>
             <offset x="-13.6496" y="-4.82221"/>
             <text>Tempo giusto</text>
             </Tempo>
+          <Tempo>
+            <tempo>1.3999999999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 84</b></text>
+            </Tempo>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
@@ -5203,9 +5209,6 @@ e organo</longName>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <BarLine>
             <span>1</span>
             </BarLine>

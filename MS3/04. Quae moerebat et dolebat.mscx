@@ -12319,7 +12319,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6</name>
+            <name>viio6</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-0.683834"/>
@@ -15124,7 +15124,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/V</name>
+            <name>viio43/V</name>
             </Harmony>
           <Rest>
             <offset x="-0.493562" y="-0.0386274"/>

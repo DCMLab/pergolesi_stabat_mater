@@ -1,8 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 103, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat
-	mc 103: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 101: ') ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat
 	MC 101: #vii in major context corrected to vii.
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 41: ') ms3.Parse.pergolesi_stabat_mater.04 Quae moerebat et dolebat

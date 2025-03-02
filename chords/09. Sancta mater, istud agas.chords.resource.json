@@ -166,11 +166,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "crescendo_line",
         "type": "string"
       },
       {
@@ -183,8 +183,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "GFJ-Wp2UlR_mvg",
-    "filepath": "chords/GFJ-Wp2UlR_mvg.schema.yaml",
+    "identifier": "ACcG-RxUrJL5QA",
+    "filepath": "chords/ACcG-RxUrJL5QA.schema.yaml",
     "used_in": "09. Sancta mater, istud agas"
   },
   "creator": {
@@ -197,6 +197,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "0.0.post1.dev1+g16ebbf3"
-  }
+    "softwareVersion": "2.5.3"
+  },
+  "git_revision": "1c31054ae8a92f744c88ec00c2afe34277d1d6f9",
+  "git_tag": "v3.0"
 }

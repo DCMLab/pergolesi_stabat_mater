@@ -1,4 +1,4 @@
-mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	lyrics_1	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	crescendo_line	crescendo_hairpin	decrescendo_hairpin
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	lyrics_1	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	crescendo_line	decrescendo_hairpin	crescendo_hairpin
 1	1	0	0	0.0	0	0	Tempo	4/4	1	1	0									Largo	36.0			1.0				
 1	1	0	0	0.5	0	0	Chord	4/4	2	1	1/8		1/8	1	0													
 1	1	1/2	1/2	0.375	1/8	1/8	Chord	4/4	2	1	3/32		1/16	3/2	1													
@@ -92,10 +92,10 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 4	4	14	14	1.0	1/2	1/2	Chord	4/4	3	1	1/4		1/4	1	85													
 4	4	15	15	0.0	3/4	3/4	Dynamic	4/4	3	1	0						f											
 4	4	15	15	0.25	3/4	3/4	Chord	4/4	3	1	1/16		1/16	1	86													
-4	4	61/4	61/4	0.0	13/16	13/16	Spanner	4/4	3	1	0																	0
-4	4	61/4	61/4	0.25	13/16	13/16	Chord	4/4	3	1	1/16		1/16	1	87													0
-4	4	31/2	31/2	0.25	7/8	7/8	Chord	4/4	3	1	1/16		1/16	1	88													0
-4	4	63/4	63/4	0.25	15/16	15/16	Chord	4/4	3	1	1/16		1/16	1	89													0
+4	4	61/4	61/4	0.0	13/16	13/16	Spanner	4/4	3	1	0																0	
+4	4	61/4	61/4	0.25	13/16	13/16	Chord	4/4	3	1	1/16		1/16	1	87												0	
+4	4	31/2	31/2	0.25	7/8	7/8	Chord	4/4	3	1	1/16		1/16	1	88												0	
+4	4	63/4	63/4	0.25	15/16	15/16	Chord	4/4	3	1	1/16		1/16	1	89												0	
 5	5	16	16	0.25	0	0	Chord	4/4	2	1	1/16		1/16	1	90										6			
 5	5	65/4	65/4	0.125	1/16	1/16	Chord	4/4	2	1	1/32		1/32	1	91										6			
 5	5	131/8	131/8	0.125	3/32	3/32	Chord	4/4	2	1	1/32		1/32	1	92										6			
@@ -582,8 +582,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 20	20	153/2	153/2	0.5	1/8	1/8	Chord	4/4	3	1	1/8		1/8	1	556													
 20	20	77	77	0.5	1/4	1/4	Chord	4/4	3	1	1/8		1/8	1	557													
 20	20	155/2	155/2	0.5	3/8	3/8	Chord	4/4	3	1	1/8		1/8	1	558													
-20	20	78	78	0.0	1/2	1/2	Spanner	4/4	3	1	0																0	
-20	20	78	78	1.0	1/2	1/2	Chord	4/4	3	1	1/4		1/4	1	559												0	
+20	20	78	78	0.0	1/2	1/2	Spanner	4/4	3	1	0																	0
+20	20	78	78	1.0	1/2	1/2	Chord	4/4	3	1	1/4		1/4	1	559													0
 20	20	79	79	0.0	3/4	3/4	Spanner	4/4	3	1	0																	
 20	20	79	79	0.25	3/4	3/4	Chord	4/4	3	1	1/16		1/16	1	560										35			
 20	20	317/4	317/4	0.25	13/16	13/16	Chord	4/4	3	1	1/16		1/16	1	561										35			
@@ -679,10 +679,10 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 22	22	86	86	1.0	1/2	1/2	Chord	4/4	2	2	1/4		1/4	1	648													
 22	22	84	84	0.0	0	0	Dynamic	4/4	3	1	0						other-dynamics											
 22	22	84	84	0.5	0	0	Chord	4/4	3	1	1/8		1/8	1	649													
-22	22	169/2	169/2	0.0	1/8	1/8	Spanner	4/4	3	1	0																1	
-22	22	169/2	169/2	0.5	1/8	1/8	Chord	4/4	3	1	1/8		1/8	1	650												1	
-22	22	85	85	0.5	1/4	1/4	Chord	4/4	3	1	1/8		1/8	1	651												1	
-22	22	171/2	171/2	0.5	3/8	3/8	Chord	4/4	3	1	1/8		1/8	1	652												1	
+22	22	169/2	169/2	0.0	1/8	1/8	Spanner	4/4	3	1	0																	1
+22	22	169/2	169/2	0.5	1/8	1/8	Chord	4/4	3	1	1/8		1/8	1	650													1
+22	22	85	85	0.5	1/4	1/4	Chord	4/4	3	1	1/8		1/8	1	651													1
+22	22	171/2	171/2	0.5	3/8	3/8	Chord	4/4	3	1	1/8		1/8	1	652													1
 22	22	86	86	0.0	1/2	1/2	Spanner	4/4	3	1	0																	
 22	22	86	86	1.0	1/2	1/2	Chord	4/4	3	1	1/4		1/4	1	653													
 22	22	87	87	0.0	3/4	3/4	Dynamic	4/4	3	1	0						p											
@@ -720,18 +720,18 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 23	23	723/8	723/8	0.125	19/32	19/32	Chord	4/4	3	1	1/32		1/32	1	682													
 23	23	181/2	181/2	0.375	5/8	5/8	Chord	4/4	3	1	3/32		1/16	3/2	683													
 23	23	727/8	727/8	0.125	23/32	23/32	Chord	4/4	3	1	1/32		1/32	1	684													
-23	23	91	91	0.0	3/4	3/4	Spanner	4/4	3	1	0																	1
-23	23	91	91	0.5	3/4	3/4	Chord	4/4	3	1	1/8		1/8	1	685													1
-23	23	183/2	183/2	0.5	7/8	7/8	Chord	4/4	3	1	1/8		1/8	1	686													1
+23	23	91	91	0.0	3/4	3/4	Spanner	4/4	3	1	0																1	
+23	23	91	91	0.5	3/4	3/4	Chord	4/4	3	1	1/8		1/8	1	685												1	
+23	23	183/2	183/2	0.5	7/8	7/8	Chord	4/4	3	1	1/8		1/8	1	686												1	
 24	24	92	92	0.0	0	0	Tempo	4/4	1	1	0									Largo	26.0			1.0				
 24	24	92	92	0.5	0	0	Chord	4/4	1	1	1/8		1/8	1	687	-mo-									47			
 24	24	185/2	185/2	0.5	1/8	1/8	Chord	4/4	1	1	1/8		1/8	1	688													
 24	24	93	93	0.3333333333333333	1/4	1/4	Chord	4/4	1	1	1/12		1/8	2/3	689	-rem									48			
 24	24	280/3	280/3	0.3333333333333333	1/3	1/3	Chord	4/4	1	1	1/12		1/8	2/3	690										48			
 24	24	281/3	281/3	0.3333333333333333	5/12	5/12	Chord	4/4	1	1	1/12		1/8	2/3	691													
-24	24	94	94	0.0	1/2	1/2	Spanner	4/4	1	1	0																	2
-24	24	94	94	1.5	1/2	1/2	Chord	4/4	1	1	3/8		1/4	3/2	692	fi-		ornamentTrill										2
-24	24	191/2	191/2	0.5	7/8	7/8	Chord	4/4	1	1	1/8		1/8	1	693	-li-												2
+24	24	94	94	0.0	1/2	1/2	Spanner	4/4	1	1	0																2	
+24	24	94	94	1.5	1/2	1/2	Chord	4/4	1	1	3/8		1/4	3/2	692	fi-		ornamentTrill									2	
+24	24	191/2	191/2	0.5	7/8	7/8	Chord	4/4	1	1	1/8		1/8	1	693	-li-											2	
 24	24	92	92	4.0	0	0	Chord	4/4	2	1	1		1	1	694													
 24	24	92	92	0.0	0	0	Dynamic	4/4	3	1	0						p											
 24	24	92	92	0.0	0	0	Spanner	4/4	3	1	0																	
@@ -740,8 +740,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 24	24	94	94	1.0	1/2	1/2	Chord	4/4	3	1	1/4		1/4	1	697													
 24	24	95	95	1.0	3/4	3/4	Chord	4/4	3	1	1/4		1/4	1	698													
 24	24	92	92	4.0	0	0	Chord	4/4	3	2	1		1	1	699													
-24	24	94	94	0.0	1/2	1/2	Spanner	4/4	3	3	0																	3
-24	24	94	94	2.0	1/2	1/2	Chord	4/4	3	3	1/2		1/2	1	700													3
+24	24	94	94	0.0	1/2	1/2	Spanner	4/4	3	3	0																3	
+24	24	94	94	2.0	1/2	1/2	Chord	4/4	3	3	1/2		1/2	1	700												3	
 25	25	96	96	0.0	0	0	Tempo	4/4	1	1	0									𝅘𝅥=36	36.0	𝅘𝅥	36.0	0.0				
 25	25	96	96	0.0	0	0	Dynamic	4/4	1	1	0						pp											
 25	25	96	96	0.0	0	0	Spanner	4/4	1	1	0																	

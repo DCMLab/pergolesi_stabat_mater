@@ -178,17 +178,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "REbZ6gIchi34TA",
-    "filepath": "chords/REbZ6gIchi34TA.schema.yaml",
+    "identifier": "Cs_5V87V4lNWTA",
+    "filepath": "chords/Cs_5V87V4lNWTA.schema.yaml",
     "used_in": "10. Fac ut portem Christi mortem"
   },
   "creator": {
@@ -201,6 +201,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "0.0.post1.dev1+g16ebbf3"
-  }
+    "softwareVersion": "2.5.3"
+  },
+  "git_revision": "1c31054ae8a92f744c88ec00c2afe34277d1d6f9",
+  "git_tag": "v3.0"
 }

@@ -1,7 +1,7 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', np.int64(37), 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.11 Inflammatus et accensus
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 37, 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.11 Inflammatus et accensus
 	mc 37: The missing value in 'vspacerFixed' was filled with '10', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', np.int64(52), 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.11 Inflammatus et accensus
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 52, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.11 Inflammatus et accensus
 	mc 52: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.

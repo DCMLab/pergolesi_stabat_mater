@@ -9,3 +9,6 @@ COMPETING_MEASURE_INFO_WARNING (9, 'mc', 108, 'voice/BarLine/subtype') ms3.Parse
 COMPETING_MEASURE_INFO_WARNING (9, 'mc', 103, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.04
 	mc 103: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
 
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 43, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.06
+	mc 43: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+    

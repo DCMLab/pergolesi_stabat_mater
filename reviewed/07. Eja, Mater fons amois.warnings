@@ -1,26 +1,20 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 1, 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois
-	mc 1: The missing value in 'vspacerFixed' was filled with '17', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 9, 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois
-	mc 9: The missing value in 'vspacerFixed' was filled with '17', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 94, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois
-	mc 94: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
 	            1a         {            13a         }
-	           20a         {            19a         }
-	           26a         {            25a         }
-	           32a        }{            32a        }{
-	           40a         {            39a         }
-	           46a         {            45a         }
-	           61a         {            49a         }
-	           66a         {            60a         }
-	           73a         {            65a         }
-	           80a         {            72a         }
-	           NaN       NaN            79a         }
+	           14a         {            19a         }
+	           20a         {            25a         }
+	           26a         {            32a        }{
+	           32a        }{            39a         }
+	           40a         {            45a         }
+	           46a         {            49a         }
+	           61a         {            60a         }
+	           66a         {            65a         }
+	           73a         {            72a         }
+	           80a         {            79a         }
 	           NaN       NaN            85a         }
 	           NaN       NaN            94a         }
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '0', 'viio65') ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois

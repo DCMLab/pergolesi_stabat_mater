@@ -174,11 +174,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -186,13 +186,13 @@
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "crescendo_line",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "gmuSkIlPmPgI8A",
-    "filepath": "chords/gmuSkIlPmPgI8A.schema.yaml",
+    "identifier": "3g2FrscuqtOi4w",
+    "filepath": "chords/3g2FrscuqtOi4w.schema.yaml",
     "used_in": "07. Eja, Mater fons amois"
   },
   "creator": {
@@ -206,7 +206,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "9aa0ea80340aedd4a3086d9cd1c41befa08a5a4e",
-  "git_tag": "v3.0-41-g9aa0ea8"
+  }
 }

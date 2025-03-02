@@ -156,6 +156,14 @@
         "type": "string"
       },
       {
+        "name": "metronome_base",
+        "type": "string"
+      },
+      {
+        "name": "metronome_number",
+        "type": "string"
+      },
+      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -179,8 +187,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "gTbxBkAAtRRFNw",
-    "filepath": "chords/gTbxBkAAtRRFNw.schema.yaml",
+    "identifier": "kWyEO2O82lW_lg",
+    "filepath": "chords/kWyEO2O82lW_lg.schema.yaml",
     "used_in": "01. Stabat Mater dolorosa"
   },
   "creator": {
@@ -194,7 +202,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "1c31054ae8a92f744c88ec00c2afe34277d1d6f9",
-  "git_tag": "v3.0"
+  }
 }

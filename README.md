@@ -32,7 +32,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 ## Overview
 |           file_name            |measures|labels|standard|annotators |
 |--------------------------------|-------:|-----:|--------|-----------|
-|01. Stabat Mater dolorosa       |      47|   166|2.2.0   |Uli Kneisel|
+|01. Stabat Mater dolorosa       |      47|   167|2.2.0   |Uli Kneisel|
 |02. Cujus animam gementem       |     108|   228|2.2.0   |Uli Kneisel|
 |03. O quam tristis et afflicta  |      26|    84|2.2.0   |Uli Kneisel|
 |04. Quae moerebat et dolebat    |     103|   214|2.2.0   |Uli Kneisel|

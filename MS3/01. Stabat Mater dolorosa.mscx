@@ -12655,7 +12655,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{V6/iv</name>
+            <name>V6/iv{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -12935,7 +12935,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{V6/III</name>
+            <name>V6/III{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

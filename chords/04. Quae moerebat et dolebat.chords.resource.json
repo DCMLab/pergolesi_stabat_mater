@@ -172,21 +172,21 @@
         "type": "string"
       },
       {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
         "name": "diminuendo_line",
         "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "jGbAa0rbQpZqmg",
-    "filepath": "chords/jGbAa0rbQpZqmg.schema.yaml",
+    "identifier": "EE8pehgl3PfajQ",
+    "filepath": "chords/EE8pehgl3PfajQ.schema.yaml",
     "used_in": "04. Quae moerebat et dolebat"
   },
   "creator": {

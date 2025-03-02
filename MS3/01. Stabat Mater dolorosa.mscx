@@ -13438,7 +13438,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio//V</name>
+            <name>viio/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>

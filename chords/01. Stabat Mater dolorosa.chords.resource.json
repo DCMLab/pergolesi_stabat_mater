@@ -178,17 +178,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "uKYBoWM4DP7yyw",
-    "filepath": "chords/uKYBoWM4DP7yyw.schema.yaml",
+    "identifier": "YEyUeqLcq35o3A",
+    "filepath": "chords/YEyUeqLcq35o3A.schema.yaml",
     "used_in": "01. Stabat Mater dolorosa"
   },
   "creator": {

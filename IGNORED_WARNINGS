@@ -11,4 +11,12 @@ COMPETING_MEASURE_INFO_WARNING (9, 'mc', 103, 'voice/BarLine/subtype') ms3.Parse
 
 COMPETING_MEASURE_INFO_WARNING (9, 'mc', 43, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.06
 	mc 43: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
-    
+
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 1, 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.07
+	mc 1: The missing value in 'vspacerFixed' was filled with '17', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 9, 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.07
+	mc 9: The missing value in 'vspacerFixed' was filled with '17', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
+
+
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 94, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.07
+	mc 94: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [2]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.

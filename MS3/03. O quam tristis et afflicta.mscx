@@ -6958,7 +6958,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>#viio7</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
@@ -8326,7 +8326,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(v74)</name>
+            <name>V(74)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

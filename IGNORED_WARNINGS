@@ -1,3 +1,3 @@
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', 47, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 47, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.01
 	mc 47: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
     There seem to be elements present that came from the encoding process that wrongly bring in an end measure as 48 scenario

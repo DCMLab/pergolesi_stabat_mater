@@ -4,11 +4,8 @@ Warnings encountered during the last execution of ms3 review
 COMPETING_MEASURE_INFO_WARNING (9, 'mc', 47, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa
 	mc 47: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
 DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.pergolesi_stabat_mater.01 Stabat Mater dolorosa
-	Score contains 6 labels that don't (and 167 that do) match the DCML standard:
+	Score contains 3 labels that don't (and 170 that do) match the DCML standard:
 	     mc  mn    label harmony_layer
-	72   20  20  {V6/III             1
-	82   22  22       {i             1
-	83   22  22   V9(64)             1
 	86   23  23  viio//V             1
 	122  33  33    {i.V6             1
 	154  43  43       {i             1
@@ -22,12 +19,12 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.pergolesi_stabat_mater.01 Staba
 	            8a        }{            11a         }
 	           12a         {            17a         }
 	           18a         {            19a         }
-	           26a        }{            21a         }
-	           28a        }{            23a         }
-	           40a        }{            26a        }{
-	           45a        }{            28a        }{
-	           NaN       NaN            32a         }
-	           NaN       NaN            37a         }
+	           20a         {            21a         }
+	           22a         {            23a         }
+	           26a        }{            26a        }{
+	           28a        }{            28a        }{
+	           40a        }{            32a         }
+	           45a        }{            37a         }
 	           NaN       NaN            40a        }{
 	           NaN       NaN            42a         }
 	           NaN       NaN            45a        }{

@@ -11,11 +11,11 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.pergolesi_stabat_mater.07 Eja, 
 	           32a        }{            39a         }
 	           40a         {            45a         }
 	           46a         {            49a         }
-	           61a         {            60a         }
-	           66a         {            65a         }
-	           73a         {            72a         }
-	           80a         {            79a         }
-	           NaN       NaN            85a         }
+	           50a         {            60a         }
+	           61a         {            65a         }
+	           66a         {            72a         }
+	           73a         {            79a         }
+	           80a         {            85a         }
 	           NaN       NaN            94a         }
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '0', 'viio65') ms3.Parse.pergolesi_stabat_mater.07 Eja, Mater fons amois
 	The label 'viio65' in m. 7, onset 0 (MC 7, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).

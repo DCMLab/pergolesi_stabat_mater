@@ -178,21 +178,21 @@
         "type": "string"
       },
       {
+        "name": "crescendo_line",
+        "type": "string"
+      },
+      {
         "name": "diminuendo_line",
         "type": "string"
       },
       {
         "name": "decrescendo_hairpin",
         "type": "string"
-      },
-      {
-        "name": "crescendo_line",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "3g2FrscuqtOi4w",
-    "filepath": "chords/3g2FrscuqtOi4w.schema.yaml",
+    "identifier": "qJUmIZsnm3bgxQ",
+    "filepath": "chords/qJUmIZsnm3bgxQ.schema.yaml",
     "used_in": "07. Eja, Mater fons amois"
   },
   "creator": {

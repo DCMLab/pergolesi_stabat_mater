@@ -13040,7 +13040,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>

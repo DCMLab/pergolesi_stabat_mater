@@ -1,9 +1,9 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', np.int64(1), 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.08 Fac ut ardeat cor meum
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 1, 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.08 Fac ut ardeat cor meum
 	mc 1: The missing value in 'vspacerFixed' was filled with '15', present in 'staff' [4]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', np.int64(5), 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.08 Fac ut ardeat cor meum
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 5, 'vspacerFixed') ms3.Parse.pergolesi_stabat_mater.08 Fac ut ardeat cor meum
 	mc 5: The missing value in 'vspacerFixed' was filled with '15', present in 'staff' [4]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.
-COMPETING_MEASURE_INFO_WARNING (9, 'mc', np.int64(72), 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.08 Fac ut ardeat cor meum
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 72, 'voice/BarLine/subtype') ms3.Parse.pergolesi_stabat_mater.08 Fac ut ardeat cor meum
 	mc 72: The missing value in 'voice/BarLine/subtype' was filled with 'end', present in 'staff' [3]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.

@@ -1,7 +1,7 @@
 {
-  "name": "10._fac_ut_portem_christi_mortem.chords",
+  "name": "01._stabat_mater_dolorosa.chords",
   "type": "table",
-  "path": "10. Fac ut portem Christi mortem.chords.tsv",
+  "path": "01. Stabat Mater dolorosa.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -156,14 +156,6 @@
         "type": "string"
       },
       {
-        "name": "metronome_base",
-        "type": "string"
-      },
-      {
-        "name": "metronome_number",
-        "type": "string"
-      },
-      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -178,7 +170,7 @@
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -187,9 +179,9 @@
       }
     ],
     "facet": "chords",
-    "identifier": "z6dWVizVDFOeiQ",
-    "filepath": "chords/z6dWVizVDFOeiQ.schema.yaml",
-    "used_in": "10. Fac ut portem Christi mortem"
+    "identifier": "1o-PIKnHB9Nv9g",
+    "filepath": "chords/1o-PIKnHB9Nv9g.schema.yaml",
+    "used_in": "01. Stabat Mater dolorosa"
   },
   "creator": {
     "@context": "https://schema.org/",

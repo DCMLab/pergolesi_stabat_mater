@@ -121,6 +121,7 @@
     <metaTag name="P86 (composer)">Q185312</metaTag>
     <metaTag name="annotators">Uli Kneisel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1736</metaTag>
     <metaTag name="composed_source">https://en.wikipedia.org/wiki/Stabat_Mater_(Pergolesi)</metaTag>
     <metaTag name="composed_start">1736</metaTag>
@@ -12966,6 +12967,7 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{V6/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -13250,6 +13252,7 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{V6/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13603,6 +13606,7 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13651,6 +13655,7 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V9(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13764,6 +13769,7 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio//V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14854,6 +14860,7 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{i.V6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -15823,6 +15830,7 @@ e organo</longName>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>

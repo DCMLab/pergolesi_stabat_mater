@@ -1,7 +1,7 @@
 {
-  "name": "10._fac_ut_portem_christi_mortem.chords",
+  "name": "07._eja__mater_fons_amois.chords",
   "type": "table",
-  "path": "10. Fac ut portem Christi mortem.chords.tsv",
+  "path": "07. Eja, Mater fons amois.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -178,6 +178,10 @@
         "type": "string"
       },
       {
+        "name": "diminuendo_line",
+        "type": "string"
+      },
+      {
         "name": "crescendo_line",
         "type": "string"
       },
@@ -187,9 +191,9 @@
       }
     ],
     "facet": "chords",
-    "identifier": "z6dWVizVDFOeiQ",
-    "filepath": "chords/z6dWVizVDFOeiQ.schema.yaml",
-    "used_in": "10. Fac ut portem Christi mortem"
+    "identifier": "FFEXBeShYMoVKg",
+    "filepath": "chords/FFEXBeShYMoVKg.schema.yaml",
+    "used_in": "07. Eja, Mater fons amois"
   },
   "creator": {
     "@context": "https://schema.org/",

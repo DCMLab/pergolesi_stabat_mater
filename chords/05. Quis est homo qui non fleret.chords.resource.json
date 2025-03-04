@@ -1,7 +1,7 @@
 {
-  "name": "10._fac_ut_portem_christi_mortem.chords",
+  "name": "05._quis_est_homo_qui_non_fleret.chords",
   "type": "table",
-  "path": "10. Fac ut portem Christi mortem.chords.tsv",
+  "path": "05. Quis est homo qui non fleret.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -178,6 +178,14 @@
         "type": "string"
       },
       {
+        "name": "diminuendo_line",
+        "type": "string"
+      },
+      {
+        "name": "HairPin:3_dim. e rit.",
+        "type": "string"
+      },
+      {
         "name": "crescendo_line",
         "type": "string"
       },
@@ -187,9 +195,9 @@
       }
     ],
     "facet": "chords",
-    "identifier": "z6dWVizVDFOeiQ",
-    "filepath": "chords/z6dWVizVDFOeiQ.schema.yaml",
-    "used_in": "10. Fac ut portem Christi mortem"
+    "identifier": "QmhNTRyLgFo8pQ",
+    "filepath": "chords/QmhNTRyLgFo8pQ.schema.yaml",
+    "used_in": "05. Quis est homo qui non fleret"
   },
   "creator": {
     "@context": "https://schema.org/",

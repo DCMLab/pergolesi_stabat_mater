@@ -1,7 +1,7 @@
 {
-  "name": "10._fac_ut_portem_christi_mortem.chords",
+  "name": "06._vidit_suum_dulcem_natum.chords",
   "type": "table",
-  "path": "10. Fac ut portem Christi mortem.chords.tsv",
+  "path": "06. Vidit suum dulcem natum.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -156,14 +156,6 @@
         "type": "string"
       },
       {
-        "name": "metronome_base",
-        "type": "string"
-      },
-      {
-        "name": "metronome_number",
-        "type": "string"
-      },
-      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -178,7 +170,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "diminuendo_line",
+        "type": "string"
+      },
+      {
+        "name": "HairPin:3_smorz.",
         "type": "string"
       },
       {
@@ -187,9 +183,9 @@
       }
     ],
     "facet": "chords",
-    "identifier": "z6dWVizVDFOeiQ",
-    "filepath": "chords/z6dWVizVDFOeiQ.schema.yaml",
-    "used_in": "10. Fac ut portem Christi mortem"
+    "identifier": "bYK88QkwD4tDFA",
+    "filepath": "chords/bYK88QkwD4tDFA.schema.yaml",
+    "used_in": "06. Vidit suum dulcem natum"
   },
   "creator": {
     "@context": "https://schema.org/",

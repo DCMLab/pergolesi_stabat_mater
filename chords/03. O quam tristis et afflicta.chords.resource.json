@@ -1,7 +1,7 @@
 {
-  "name": "10._fac_ut_portem_christi_mortem.chords",
+  "name": "03._o_quam_tristis_et_afflicta.chords",
   "type": "table",
-  "path": "10. Fac ut portem Christi mortem.chords.tsv",
+  "path": "03. O quam tristis et afflicta.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -102,12 +102,6 @@
         }
       },
       {
-        "name": "gracenote",
-        "title": "Grace Note",
-        "description": "Name given to a type of grace note in the MuseScore encoding, e.g. \"grace16\"",
-        "type": "string"
-      },
-      {
         "name": "nominal_duration",
         "title": "Nominal Duration",
         "description": "The duration corresponding to a note/rest value without applying any dots or n-tuplets, as fraction of a whole note. Multiplied with \"scalar\" to yield the actual duration of the note/rest.",
@@ -156,14 +150,6 @@
         "type": "string"
       },
       {
-        "name": "metronome_base",
-        "type": "string"
-      },
-      {
-        "name": "metronome_number",
-        "type": "string"
-      },
-      {
         "name": "tempo_visible",
         "type": "string"
       },
@@ -178,7 +164,7 @@
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -187,9 +173,9 @@
       }
     ],
     "facet": "chords",
-    "identifier": "z6dWVizVDFOeiQ",
-    "filepath": "chords/z6dWVizVDFOeiQ.schema.yaml",
-    "used_in": "10. Fac ut portem Christi mortem"
+    "identifier": "46V4fVHCIIZBsA",
+    "filepath": "chords/46V4fVHCIIZBsA.schema.yaml",
+    "used_in": "03. O quam tristis et afflicta"
   },
   "creator": {
     "@context": "https://schema.org/",

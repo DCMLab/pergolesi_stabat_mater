@@ -16,6 +16,8 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 The Stabat Mater is one of the few works that can be definitively attributed to Pergolesi. Written shortly before the composer's untimely death, this work has since become ubiquitous for its innovative implementation of an accessible, opera-like style within a sacred context. Our annotations highlight the poignant dissonances and tensions that enrich the ostensibly simple vocabulary of this work.
 
+## Cite as
+
 ## Version history
 
 See the [GitHub releases](https://github.com/DCMLab/pergolesi_stabat_mater/releases).
@@ -28,6 +30,7 @@ Please [create an issue](https://github.com/DCMLab/pergolesi_stabat_mater/issues
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
 ## Overview
 |           file_name            |measures|labels|standard|annotators |

@@ -319,6 +319,12 @@ e organo</longName>
             <offset x="-3.38864" y="-4.99962"/>
             <text>Largo assai</text>
             </Tempo>
+          <Tempo>
+            <tempo>0.66666666666666663</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 40</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>

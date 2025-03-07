@@ -395,6 +395,12 @@ e organo</longName>
             <tempo>0.75</tempo>
             <text>Grave</text>
             </Tempo>
+          <Tempo>
+            <tempo>1.3</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 78</b></text>
+            </Tempo>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
@@ -10269,9 +10275,6 @@ e organo</longName>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -10327,9 +10330,6 @@ e organo</longName>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -10939,7 +10939,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11342,7 +11342,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11687,7 +11687,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65</name>
+            <name>#viio65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11776,7 +11776,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(v74)</name>
+            <name>V(74)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -12108,7 +12108,7 @@ e organo</longName>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>V/III</name>
             </Harmony>
           </voice>
         <voice>
@@ -12324,7 +12324,7 @@ e organo</longName>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12458,7 +12458,7 @@ e organo</longName>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           </voice>
         <voice>
@@ -12570,7 +12570,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12649,7 +12649,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{V6/iv</name>
+            <name>V6/iv{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -12929,7 +12929,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{V6/III</name>
+            <name>V6/III{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13279,7 +13279,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{i</name>
+            <name>i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13321,7 +13321,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V9(64)</name>
+            <name>V(964)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13432,7 +13432,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio//V</name>
+            <name>viio/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13505,7 +13505,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i</name>
+            <name>v.i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14298,7 +14298,7 @@ e organo</longName>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           </voice>
         <voice>
@@ -14506,7 +14506,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{i.V6</name>
+            <name>i.V6{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14798,7 +14798,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(v74)</name>
+            <name>V(74)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14901,6 +14901,10 @@ e organo</longName>
             <offset x="-0.138244" y="0.103566"/>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -15052,7 +15056,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -15363,7 +15367,7 @@ e organo</longName>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(^#2)</name>
+            <name>VI(#2)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -15423,7 +15427,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{i</name>
+            <name>i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15788,9 +15792,6 @@ e organo</longName>
                 </location>
               </next>
             </Spanner>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -15821,14 +15822,14 @@ e organo</longName>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(9#7)</name>
             </Harmony>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>

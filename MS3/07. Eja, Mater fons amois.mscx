@@ -335,6 +335,13 @@ e organo</longName>
             <followText>1</followText>
             <text>Andantino</text>
             </Tempo>
+          <Tempo>
+            <tempo>1.5750000000000002</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 63
+</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
@@ -10359,7 +10366,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65</name>
+            <name>#viio65</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10529,7 +10536,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10677,7 +10684,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10820,6 +10827,10 @@ e organo</longName>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
@@ -11636,7 +11647,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.viio7</name>
+            <name>iv.#viio7</name>
             <offset x="0" y="-5.37262"/>
             </Harmony>
           <Rest>
@@ -11696,7 +11707,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11817,7 +11828,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             <offset x="-0.15119" y="-6.28773"/>
             </Harmony>
           <Chord>
@@ -12300,7 +12311,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12765,7 +12776,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             <offset x="-0.302381" y="-7.75557"/>
             </Harmony>
           <Chord>
@@ -12881,7 +12892,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13029,7 +13040,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -13382,7 +13393,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -13431,6 +13442,10 @@ e organo</longName>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
@@ -13533,7 +13548,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13883,7 +13898,7 @@ e organo</longName>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/iv</name>
+            <name>#viio/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14627,7 +14642,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14706,7 +14721,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14853,7 +14868,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15018,7 +15033,7 @@ e organo</longName>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15406,7 +15421,7 @@ e organo</longName>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15565,7 +15580,7 @@ e organo</longName>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>

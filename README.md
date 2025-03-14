@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/pergolesi_stabat_mater?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/503022174.svg)](https://doi.org/10.5281/zenodo.14990099)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/pergolesi_stabat_mater)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -12,7 +12,7 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/pergolesi_stabat_mater/introduction).
 
-# Giovanni Battista Pergolesi – Stabat Mater (1736)
+# Giovanni Battista Pergolesi – Stabat Mater (1736) (A corpus of annotated scores)
 
 The Stabat Mater is one of the few works that can be definitively attributed to Pergolesi. Written shortly before the
 composer's untimely death, this work has since become ubiquitous for its innovative implementation of an accessible,
@@ -84,7 +84,7 @@ Please [create an issue](https://github.com/DCMLab/pergolesi_stabat_mater/issues
 
 ## Cite as
 
-_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Giovanni Battista Pergolesi – Stabat Mater (1736) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}_
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Giovanni Battista Pergolesi – Stabat Mater (1736) (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14990099
 
 ## License
 

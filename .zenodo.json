@@ -44,7 +44,7 @@
         }
     ],
     "upload_type": "dataset",
-    "version": "v3.1",
+    "version": "v3.2",
     "communities": [
         {
             "identifier": "dcml"
@@ -53,7 +53,7 @@
             "identifier": "epfl"
         }
     ],
-    "publication_date": "2025-03-07",
+    "publication_date": "2025-04-27",
     "creators": [
         {
             "orcid": "0000-0002-1986-9545",
@@ -80,7 +80,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/DCMLab/pergolesi_stabat_mater/tree/v3.1",
+            "identifier": "https://github.com/DCMLab/pergolesi_stabat_mater/tree/v3.2",
             "relation": "references"
         },
         {
